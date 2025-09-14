@@ -1,10 +1,10 @@
-# Post-Quantum Hybrid TLS Benchmark Suite
+# Hybrid 2-Plane Quantum-Classical Framework
 
-A comprehensive benchmarking framework for evaluating a 2-plane post-quantum hybrid TLS implementations, with real-world network measurements and cryptographic overhead analysis.
+A comprehensive benchmarking framework for evaluating a 2-plane post-quantum hybrid end-to-end implementation, with real-world network measurements and cryptographic overhead analysis.
 
-##Overview
+## Overview
 
-This project implements and benchmarks a **two-plane hybrid TLS architecture** that combines classical and post-quantum cryptography to provide quantum-safe communication while maintaining compatibility with existing TLS infrastructure.
+This project implements and benchmarks a **two-plane hybrid end-to-end architecture** that combines classical and post-quantum cryptography to provide quantum-safe communication.
 
 ### Architecture
 
@@ -13,7 +13,7 @@ This project implements and benchmarks a **two-plane hybrid TLS architecture** t
 - **Key Bridge:** HKDF-Extract combines both shared secrets into a single master secret (ETSI Compliant latest)
 - **Result:** Session remains secure unless **both** classical and post-quantum algorithms are broken
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 qcomm_benchmark/
@@ -23,27 +23,26 @@ qcomm_benchmark/
 │   ├── benchmark.py              # Benchmarking suite
 │   └── logs/                     # Performance metrics and logs
 |
-├── hybrid_qu_alice_bob/          # Post-quantum hybrid TLS implementation
+├── hybrid_qu_alice_bob/          # Post-quantum hybrid implementation
 │   ├── alice.py                  # Hybrid TLS client
 │   ├── bob.py                    # Hybrid TLS server
 │   ├── benchmark.py              # Hybrid benchmarking orchestrator
-│   ├── hybrid_tls_real_pqc.py    # Post-quantum hybrid TLS protocol
+│   ├── hybrid_tls_real_pqc.py    # Post-quantum hybrid protocol
 │   └── logs/                     # Hybrid performance metrics
 |
 ├── single_proc_crypto_overhead/  # Isolated pq cryptographic algorithm microbenchmarks
-│   ├── app.py                    # Single-process benchmark runner
-│   ├── benchmark.py              # Microbenchmark implementation
-│   ├── backends/                 # Cryptographic backends
-│   │   ├── classical.py          # AES-GCM-256 (symmetric only)
-│   │   ├── hybrid_kem.py         # ML-KEM-768 + AES-GCM
-│   │   └── full_pqc.py           # ML-KEM-768 + ML-DSA-65 + AES-GCM
-│   ├── crypto/                   # Post-quantum cryptographic primitives
-│   │   ├── pqc_kem.py            # ML-KEM-768 implementation
-│   │   ├── pqc_sign.py           # ML-DSA-65 implementation
-│   │   └── crypto_aesgcm.py      # AES-GCM utilities
-│   └── logs/                     # Microbenchmark results
-|
-└── etsi-qsc-update.pdf          # ETSI quantum-safe cryptography reference
+    ├── app.py                    # Single-process benchmark runner
+    ├── benchmark.py              # Microbenchmark implementation
+    ├── backends/                 # Cryptographic backends
+    │   ├── classical.py          # AES-GCM-256 (symmetric only)
+    │   ├── hybrid_kem.py         # ML-KEM-768 + AES-GCM
+    │   └── full_pqc.py           # ML-KEM-768 + ML-DSA-65 + AES-GCM
+    ├── crypto/                   # Post-quantum cryptographic primitives
+    │   ├── pqc_kem.py            # ML-KEM-768 implementation
+    │   ├── pqc_sign.py           # ML-DSA-65 implementation
+    │   └── crypto_aesgcm.py      # AES-GCM utilities
+    └── logs/                     # Microbenchmark results
+
 ```
 
 ## Technical Implementation
@@ -60,13 +59,13 @@ qcomm_benchmark/
   - Public key: 1952/2592 bytes, Secret key: 4032/4864 bytes
   - Signature: ~3309/~4624 bytes
 
-### Hybrid TLS Protocol Flow
+### Hybrid Protocol Flow
 
 1. **ClientHello:** Sends ECDHE, ML-KEM, and ML-DSA public keys
 2. **ServerHello:** Responds with server's public keys for all algorithms
 3. **Key Exchange (Parallel):**
-   - ECDHE key exchange → `Z_ec` (classical shared secret)
-   - ML-KEM encapsulation → `Z_pq` (post-quantum shared secret)
+   - ECDHE key exchange --> `Z_ec` (classical shared secret)
+   - ML-KEM encapsulation --> `Z_pq` (post-quantum shared secret)
 4. **Authentication:** Server signs handshake transcript with ML-DSA
 5. **Key Bridge:** `master_secret = HKDF-Extract(salt, Z_ec || Z_pq)`
 6. **Session Keys:** Derived from master secret using HKDF-Expand
@@ -154,7 +153,7 @@ results = runner.run()
 - **Sample Count:** Number of [successfull] measurements per metric
 - **Confidence Intervals:** Statistical reliability indicators
 
-## 📈 Results and Output
+## Results and Output
 
 ### Generated Files
 
@@ -165,7 +164,7 @@ results = runner.run()
 - **`logs/server/server_metrics.json`:** Server-side detailed metrics
 
 
-### Distributed Testing (should work, i hope)
+### Distributed Testing (should work, I hope)
 
 ```bash
 # Server (Bob) - Run on remote machine
