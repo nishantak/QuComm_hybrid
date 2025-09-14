@@ -103,7 +103,7 @@ def create_comparison_plot(metric, scope, classical_agg, hybrid_agg, output_dir)
     plt.tight_layout()
     
     # Save plot
-    filename = f"{scope}_{metric}_comparison.png"
+    filename = f"{scope}/{metric}_comparison.png"
     filepath = output_dir / filename
     plt.savefig(filepath, dpi=300, bbox_inches='tight')
     plt.close()
@@ -211,6 +211,8 @@ def main():
     hybrid_path = Path("hybrid_qu_alice_bob")
     output_dir = Path("plots")
     output_dir.mkdir(exist_ok=True)
+    (output_dir / "server").mkdir(parents=True, exist_ok=True)
+    (output_dir / "client").mkdir(parents=True, exist_ok=True)
     
     classical_data = load_data(classical_path)
     hybrid_data = load_data(hybrid_path)
