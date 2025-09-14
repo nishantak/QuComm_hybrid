@@ -1,0 +1,47 @@
+{
+  "Classical": {
+    "Latency (ms)": "0.0055 +- 0.0013",
+    "KEM Keygen B (ms)": "0.0000 +- 0.0000",
+    "KEM Encaps A (ms)": "0.0000 +- 0.0000",
+    "KEM Decaps B (ms)": "0.0000 +- 0.0000",
+    "Sign Keygen (ms)": "0.0000 +- 0.0000",
+    "PK Distribution (ms)": "0.0000 +- 0.0000",
+    "Symmetric Keygen (ms)": "0.1561 +- 0.4035",
+    "Enc (ms)": "0.0131 +- 0.0267",
+    "Dec (ms)": "0.0043 +- 0.0046",
+    "Sign (ms)": "0.0000 +- 0.0000",
+    "Verify (ms)": "0.0000 +- 0.0000",
+    "Throughput (msg/s)": "207522.8987 +- 1503.0875",
+    "Failures": 0
+  },
+  "HybridKEM": {
+    "Latency (ms)": "0.0093 +- 0.0017",
+    "KEM Keygen B (ms)": "0.2598 +- 0.3599",
+    "KEM Encaps A (ms)": "0.1224 +- 0.0127",
+    "KEM Decaps B (ms)": "0.0000 +- 0.0000",
+    "Sign Keygen (ms)": "0.0000 +- 0.0000",
+    "PK Distribution (ms)": "0.0000 +- 0.0000",
+    "Symmetric Keygen (ms)": "0.0000 +- 0.0000",
+    "Enc (ms)": "0.0119 +- 0.0027",
+    "Dec (ms)": "0.0055 +- 0.0013",
+    "Sign (ms)": "0.0000 +- 0.0000",
+    "Verify (ms)": "0.0000 +- 0.0000",
+    "Throughput (msg/s)": "123410.7294 +- 4015.9396",
+    "Failures": 0
+  },
+  "FullPQC": {
+    "Latency (ms)": "0.5660 +- 0.1466",
+    "KEM Keygen B (ms)": "0.1153 +- 0.0122",
+    "KEM Encaps A (ms)": "0.1055 +- 0.0064",
+    "KEM Decaps B (ms)": "0.0000 +- 0.0000",
+    "Sign Keygen (ms)": "0.2032 +- 0.0286",
+    "PK Distribution (ms)": "0.0010 +- 0.0002",
+    "Symmetric Keygen (ms)": "0.0000 +- 0.0000",
+    "Enc (ms)": "0.0114 +- 0.0016",
+    "Dec (ms)": "0.0050 +- 0.0006",
+    "Sign (ms)": "0.5978 +- 0.2453",
+    "Verify (ms)": "0.1278 +- 0.0082",
+    "Throughput (msg/s)": "1567.4227 +- 57.4743",
+    "Failures": 0
+  }
+}
