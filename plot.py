@@ -171,7 +171,7 @@ def create_summary_plot(scope, classical_agg, hybrid_agg, output_dir):
     plt.savefig(filepath, dpi=300, bbox_inches='tight')
     plt.close()
 
-def save_overhead_table(scope, classical_agg, hybrid_agg, output_dir):
+def save_overhead_data(scope, classical_agg, hybrid_agg, output_dir):
     common_metrics = set(classical_agg.keys()) & set(hybrid_agg.keys())
     
     valid_metrics = []
@@ -183,13 +183,11 @@ def save_overhead_table(scope, classical_agg, hybrid_agg, output_dir):
     if not valid_metrics:
         return
     
-    # Create overhead table data
     table_data = []
     for metric in sorted(valid_metrics):
         classical = classical_agg[metric]
         hybrid = hybrid_agg[metric]
         
-        # Calculate overhead
         overhead = ((hybrid['mean'] - classical['mean']) / classical['mean']) * 100
         
         title, _ = get_metric_labels(metric)
@@ -203,10 +201,8 @@ def save_overhead_table(scope, classical_agg, hybrid_agg, output_dir):
             'Classical_Count': classical['count'],
             'Hybrid_Count': hybrid['count']
         })
-    
-    # Save to CSV
     df = pd.DataFrame(table_data)
-    filename = f"{scope}_overhead_table.csv"
+    filename = f"{scope}_overhead.csv"
     filepath = output_dir / filename
     df.to_csv(filepath, index=False)
 
@@ -244,7 +240,7 @@ def main():
         
         create_summary_plot(scope, classical_agg, hybrid_agg, output_dir)
         
-        save_overhead_table(scope, classical_agg, hybrid_agg, output_dir)
+        save_overhead_data(scope, classical_agg, hybrid_agg, output_dir)
 
 if __name__ == "__main__":
     main()
