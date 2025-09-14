@@ -1,0 +1,8 @@
+plots/server/*
+plots/client/*
+__pycache__*
+instance/
+.env
+.venv*
+.vscode/
+.DS_Store
