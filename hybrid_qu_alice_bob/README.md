@@ -92,7 +92,6 @@ python benchmark.py --hybrid --runs 32 --bytes 1048576
 - **Chunked I/O**: 16,384-byte chunks to match classical TLS methodology
 - **Network Timing**: Includes all network round-trips and latency
 - **Encryption/Decryption**: AES-GCM timing for each chunk
-- **Per-Call Timing**: Individual receive call durations tracked
 
 #### Round-Trip Time (RTT)
 - **Method**: Client sends 4-byte `PING`, server echoes back
@@ -105,14 +104,14 @@ python benchmark.py --hybrid --runs 32 --bytes 1048576
 - **Client Metrics**:
   - `handshake_time_ms`: Total hybrid handshake duration
   - `rtt_ms`: Round-trip time measurement
-  - `end_to_end_transfer_time_ms`: Complete data transfer time
+  - `end_to_end_transfer_time_ms`: Complete data transfer time: Client send time + network round-trip + server processing + client receive time
   - `throughput_bytes_per_sec`: Data transfer rate
   - `encrypt_time_ms`: Encryption timing approximation
   - `decrypt_time_ms`: Decryption timing approximation
 
 - **Server Metrics**:
   - `handshake_time_ms`: Total hybrid handshake duration
-  - `transfer_duration_ms`: Server-side data processing time
+  - `transfer_duration_ms`: Server-side data processing time: Server receive time + server processing + server send time
   - `throughput_bytes_per_sec`: Server-side data transfer rate
   - `per_recv_call_time_ms`: Individual receive call timings
   - `encrypt_time_ms`: Encryption timing approximation
