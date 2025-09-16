@@ -6,3 +6,4 @@ instance/
 .venv*
 .vscode/
 .DS_Store
+*.pem
