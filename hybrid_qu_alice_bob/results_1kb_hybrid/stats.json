@@ -1,0 +1,178 @@
+{
+  "versions": [
+    {
+      "tls_version": "1.3_hybrid",
+      "runs": 16,
+      "success_rate": 1.0,
+      "server_stats": {
+        "port": {
+          "mean": 44330.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "client_hello_time_ms": {
+          "mean": 0.11415623157517985,
+          "std": 0.01740585953116263,
+          "n": 16
+        },
+        "server_hello_time_ms": {
+          "mean": 0.11224376066820696,
+          "std": 0.017597084812435534,
+          "n": 16
+        },
+        "ecdh_time_ms": {
+          "mean": 0.22768124472349882,
+          "std": 0.022949445965668166,
+          "n": 16
+        },
+        "mlkem_decapsulation_time_ms": {
+          "mean": 0.5236749930190854,
+          "std": 0.10027706990335954,
+          "n": 16
+        },
+        "signature_generation_time_ms": {
+          "mean": 0.7032937501207925,
+          "std": 0.27559487788104087,
+          "n": 16
+        },
+        "key_derivation_time_ms": {
+          "mean": 0.26753124984679744,
+          "std": 0.041522894459551686,
+          "n": 16
+        },
+        "total_handshake_time_ms": {
+          "mean": 113.424431256135,
+          "std": 4.796721860594678,
+          "n": 16
+        },
+        "handshake_time_ms": {
+          "mean": 113.424431256135,
+          "std": 4.796721860594678,
+          "n": 16
+        },
+        "bytes_received": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "decrypt_time_ms": {
+          "mean": 0.16596876230323687,
+          "std": 0.03528151347161626,
+          "n": 16
+        },
+        "bytes_sent": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "encrypt_time_ms": {
+          "mean": 0.05896874063182622,
+          "std": 0.01202375053135876,
+          "n": 16
+        },
+        "transfer_duration_ms": {
+          "mean": 0.22814375552115962,
+          "std": 0.033737702764664326,
+          "n": 16
+        },
+        "throughput_bytes_per_sec": {
+          "mean": 4577379.701223663,
+          "std": 649864.3874468121,
+          "n": 16
+        }
+      },
+      "client_stats": {
+        "port": {
+          "mean": 44330.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "payload_bytes": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "tcp_connect_time_ms": {
+          "mean": 0.6583437498193234,
+          "std": 0.04899713064912158,
+          "n": 16
+        },
+        "client_hello_time_ms": {
+          "mean": 0.13438749010674655,
+          "std": 0.02037325535830566,
+          "n": 16
+        },
+        "server_hello_time_ms": {
+          "mean": 6.789956241846085,
+          "std": 0.5306749695419803,
+          "n": 16
+        },
+        "ecdh_time_ms": {
+          "mean": 0.25727499451022595,
+          "std": 0.040569100544077856,
+          "n": 16
+        },
+        "mlkem_encapsulation_time_ms": {
+          "mean": 0.21408123575383797,
+          "std": 0.03480814711681275,
+          "n": 16
+        },
+        "signature_verification_time_ms": {
+          "mean": 1.0632437551976182,
+          "std": 0.27122677660095457,
+          "n": 16
+        },
+        "key_derivation_time_ms": {
+          "mean": 0.25368750357301906,
+          "std": 0.045237537022789966,
+          "n": 16
+        },
+        "total_handshake_time_ms": {
+          "mean": 16.046918761276174,
+          "std": 0.7061636784626426,
+          "n": 16
+        },
+        "handshake_time_ms": {
+          "mean": 16.046918761276174,
+          "std": 0.7061636784626426,
+          "n": 16
+        },
+        "ping_ping_rtt_ms": {
+          "mean": 0.5041250042268075,
+          "std": 0.07327510851108353,
+          "n": 16
+        },
+        "bytes_sent": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "encrypt_time_ms": {
+          "mean": 0.06787500024074689,
+          "std": 0.016843016424396482,
+          "n": 16
+        },
+        "bytes_received": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "decrypt_time_ms": {
+          "mean": 0.1447500108042732,
+          "std": 0.021271819484752,
+          "n": 16
+        },
+        "end_to_end_transfer_time_ms": {
+          "mean": 0.21358751837396994,
+          "std": 0.026804270970326546,
+          "n": 16
+        },
+        "throughput_bytes_per_sec": {
+          "mean": 4866769.916040647,
+          "std": 618647.416525711,
+          "n": 16
+        }
+      }
+    }
+  ]
+}
