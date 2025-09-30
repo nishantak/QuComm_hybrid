@@ -21,7 +21,8 @@ qcomm_benchmark/
 │   ├── alice.py                  # TLS client
 │   ├── bob.py                    # TLS server
 │   ├── benchmark.py              # Benchmarking suite
-│   └── logs/                     # Performance metrics and logs
+│   |__ logs/                     # Performance metrics and logs
+|   |__ results_*/               # Performacne metrics for tests of different file sizes
 |
 ├── hybrid_qu_alice_bob/          # Post-quantum hybrid implementation
 │   ├── alice.py                  # Hybrid TLS client
@@ -31,17 +32,21 @@ qcomm_benchmark/
 │   └── logs/                     # Hybrid performance metrics
 |
 ├── single_proc_crypto_overhead/  # Isolated pq cryptographic algorithm microbenchmarks
-    ├── app.py                    # Single-process benchmark runner
-    ├── benchmark.py              # Microbenchmark implementation
-    ├── backends/                 # Cryptographic backends
-    │   ├── classical.py          # AES-GCM-256 (symmetric only)
-    │   ├── hybrid_kem.py         # ML-KEM-768 + AES-GCM
-    │   └── full_pqc.py           # ML-KEM-768 + ML-DSA-65 + AES-GCM
-    ├── crypto/                   # Post-quantum cryptographic primitives
-    │   ├── pqc_kem.py            # ML-KEM-768 implementation
-    │   ├── pqc_sign.py           # ML-DSA-65 implementation
-    │   └── crypto_aesgcm.py      # AES-GCM utilities
-    └── logs/                     # Microbenchmark results
+|   ├── app.py                    # Single-process benchmark runner
+|   ├── benchmark.py              # Microbenchmark implementation
+|   ├── backends/                 # Cryptographic backends
+|   │   ├── classical.py          # AES-GCM-256 (symmetric only)
+|   │   ├── hybrid_kem.py         # ML-KEM-768 + AES-GCM
+|   │   └── full_pqc.py           # ML-KEM-768 + ML-DSA-65 + AES-GCM
+|   ├── crypto/                   # Post-quantum cryptographic primitives
+|   │   ├── pqc_kem.py            # ML-KEM-768 implementation
+|   │   ├── pqc_sign.py           # ML-DSA-65 implementation
+|   │   └── crypto_aesgcm.py      # AES-GCM utilities
+|   └── logs/                     # Microbenchmark results
+|
+|__ scaling_benchmarks.py       # Benchmark orchestrator to run for multiple file sizes
+|__ plot.py                     # plotting helper
+|__ plots/                      # comparison plots
 
 ```
 
@@ -143,15 +148,6 @@ results = runner.run()
 - **Signature Generation/Verification:** ML-DSA operations (ms)
 - **Public Key Distribution:** Key exchange overhead (ms)
 - **Symmetric Key Generation:** AES key setup time (ms)
-
-<br>
-
-**Statistical Analysis**
-
-- **Mean and Standard Deviation:** For all timing measurements
-- **Success Rate:** Percentage of successful handshakes
-- **Sample Count:** Number of [successfull] measurements per metric
-- **Confidence Intervals:** Statistical reliability indicators
 
 ## Results and Output
 
