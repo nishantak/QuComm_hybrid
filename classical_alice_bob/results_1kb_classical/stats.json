@@ -1,0 +1,118 @@
+{
+  "versions": [
+    {
+      "tls_version": "1.3",
+      "runs": 16,
+      "success_rate": 1.0,
+      "server_stats": {
+        "port": {
+          "mean": 44330.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "cert_size_bytes": {
+          "mean": 1134.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "key_size_bytes": {
+          "mean": 1732.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "handshake_time_ms": {
+          "mean": 8.03978749900125,
+          "std": 0.28122967082077344,
+          "n": 16
+        },
+        "bytes_received": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "decrypt_time_ms": {
+          "mean": 0.06463751196861267,
+          "std": 0.010352321671336385,
+          "n": 16
+        },
+        "bytes_sent": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "encrypt_time_ms": {
+          "mean": 0.03553750866558403,
+          "std": 0.003303510720071261,
+          "n": 16
+        },
+        "transfer_duration_ms": {
+          "mean": 0.10350626689614728,
+          "std": 0.013380271984502548,
+          "n": 16
+        },
+        "throughput_bytes_per_sec": {
+          "mean": 10015389.453484742,
+          "std": 1022960.8462417132,
+          "n": 16
+        }
+      },
+      "client_stats": {
+        "port": {
+          "mean": 44330.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "payload_bytes": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "tcp_connect_time_ms": {
+          "mean": 0.6526187571580522,
+          "std": 0.028678766825127155,
+          "n": 16
+        },
+        "handshake_time_ms": {
+          "mean": 4.7986187564674765,
+          "std": 0.2241332918223032,
+          "n": 16
+        },
+        "ping_rtt_ms": {
+          "mean": 0.36216250009601936,
+          "std": 0.09289221006887143,
+          "n": 16
+        },
+        "bytes_sent": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "encrypt_time_ms": {
+          "mean": 0.042124993342440575,
+          "std": 0.006019468125000933,
+          "n": 16
+        },
+        "bytes_received": {
+          "mean": 1024.0,
+          "std": 0.0,
+          "n": 16
+        },
+        "decrypt_time_ms": {
+          "mean": 0.05843749386258423,
+          "std": 0.004563609190864783,
+          "n": 16
+        },
+        "end_to_end_transfer_time_ms": {
+          "mean": 0.10150623711524531,
+          "std": 0.009206414475673023,
+          "n": 16
+        },
+        "throughput_bytes_per_sec": {
+          "mean": 10157816.067461962,
+          "std": 826847.5969905603,
+          "n": 16
+        }
+      }
+    }
+  ]
+}

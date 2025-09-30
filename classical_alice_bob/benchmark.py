@@ -237,7 +237,7 @@ def main() -> None:
         client_stats = v.get("client_stats", {})
         if client_stats:
             print("  CLIENT METRICS:")
-            for metric in ["handshake_time_ms", "rtt_ms", "end_to_end_transfer_time_ms", "throughput_bytes_per_sec"]:
+            for metric in ["handshake_time_ms", "end_to_end_transfer_time_ms", "throughput_bytes_per_sec"]:
                 stat = client_stats.get(metric)
                 if stat:
                     print(f"    {metric}: {stat['mean']:.6f} +- {stat['std']:.6f}")
@@ -252,16 +252,14 @@ def main() -> None:
                     print(f"    {metric}: {stat['mean']:.6f} +- {stat['std']:.6f}")
         print("")
 
-    # Also export CSVs
-    export_csvs(all_runs, summary)
-    # And write a human-readable text summary file mirroring terminal output
+    export_csvs(all_runs, summary, args.bytes)
     write_text_summary(summary, os.path.join(LOGS_DIR, "summary.txt"))
 
 
 # (no helper flatten needed)
 
 
-def export_csvs(all_runs: List[Dict[str, Any]], summary: Dict[str, Any] | None) -> None:
+def export_csvs(all_runs: List[Dict[str, Any]], summary: Dict[str, Any] | None, payload_bytes: int) -> None:
     import csv
     ensure_logs_dir()
     # Combined runs CSV (one row per run per TLS version)
@@ -274,7 +272,7 @@ def export_csvs(all_runs: List[Dict[str, Any]], summary: Dict[str, Any] | None) 
         for idx, run in enumerate(runs):
             server = run.get("server", {})
             client = run.get("client", {})
-            base = {"tls_version": tls_version, "run_index": idx + 1}
+            base = {"tls_version": tls_version, "run_index": idx + 1, "file_size": payload_bytes}
             combined = dict(base)
             for k, v in client.items():
                 combined[f"client.{k}"] = v
@@ -348,7 +346,7 @@ def write_text_summary(summary: Dict[str, Any], path: str) -> None:
         client_stats = v.get("client_stats", {})
         if client_stats:
             lines.append("  CLIENT METRICS:")
-            for metric in ["handshake_time_ms", "rtt_ms", "end_to_end_transfer_time_ms", "throughput_bytes_per_sec"]:
+            for metric in ["handshake_time_ms", "end_to_end_transfer_time_ms", "throughput_bytes_per_sec"]:
                 stat = client_stats.get(metric)
                 if stat:
                     lines.append(f"    {metric}: {stat['mean']:.6f} +- {stat['std']:.6f}")

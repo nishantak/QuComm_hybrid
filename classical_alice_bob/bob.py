@@ -132,7 +132,7 @@ def serve(host: str, port: int, tls_version: str, ciphers: str, cert_file: str, 
             metrics["negotiated_cipher"] = ssl_conn.cipher()
             append_log(f"Handshake complete with {addr} in {metrics['handshake_time_ms']:.3f}ms")
 
-            # Optional small RTT ping echo (client may send a small ping first)
+            # small RTT ping echo (client may send a small ping first)
             try:
                 ssl_conn.settimeout(0.05)
                 prelude = ssl_conn.recv(4)

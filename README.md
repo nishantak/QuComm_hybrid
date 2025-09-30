@@ -131,7 +131,7 @@ results = runner.run()
 ### Network-Level Metrics
 
 - **Handshake Time:** Complete TLS handshake duration (ms)
-- **Round-Trip Time (RTT):** Application-layer latency (ms)
+- **Round-Trip Time (RTT):** Application-layer latency in 4-byte PING (ms)
 - **Throughput:** Data transfer rate (bytes/sec)
 - **Encryption/Decryption Time:** Symmetric crypto overhead (ms)
 - **End-to-End Transfer Time:** Total data exchange time (ms)

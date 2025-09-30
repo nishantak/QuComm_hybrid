@@ -1,0 +1,9 @@
+TLS 1.3 runs=16 success_rate=1.00
+  CLIENT METRICS:
+    handshake_time_ms: 5.176975 +- 0.802607
+    end_to_end_transfer_time_ms: 1303.833169 +- 113.359417
+    throughput_bytes_per_sec: 404498189.182377 +- 29318586.957971
+  SERVER METRICS:
+    handshake_time_ms: 8.666281 +- 1.360499
+    transfer_duration_ms: 1346.721119 +- 115.379233
+    throughput_bytes_per_sec: 391557496.376089 +- 28064870.161272

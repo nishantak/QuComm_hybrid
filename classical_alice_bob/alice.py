@@ -94,7 +94,7 @@ def run_client(host: str, port: int, tls_version: str, ciphers: str, ca_file: st
         ssl_sock.sendall(ping_payload)
         _pong = ssl_sock.recv(len(ping_payload))
         t_rtt_end = time.perf_counter()
-        metrics["rtt_ms"] = (t_rtt_end - t_rtt_start) * 1000.0
+        metrics["ping_rtt_ms"] = (t_rtt_end - t_rtt_start) * 1000.0
 
         # Prepare 1MB payload
         payload = b"A" * payload_bytes

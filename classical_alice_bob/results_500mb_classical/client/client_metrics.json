@@ -1,0 +1,24 @@
+{
+  "host": "127.0.0.1",
+  "port": 44330,
+  "tls_version": "1.3",
+  "ciphers_requested": "AESGCM:CHACHA20:AES256:AES128",
+  "ca_file": "server_cert.pem",
+  "payload_bytes": 524288000,
+  "tcp_connect_time_ms": 0.7706000469624996,
+  "handshake_time_ms": 5.869199987500906,
+  "negotiated_tls_version": "TLSv1.3",
+  "negotiated_cipher": [
+    "TLS_AES_256_GCM_SHA384",
+    "TLSv1.3",
+    256
+  ],
+  "ping_rtt_ms": 0.20899996161460876,
+  "bytes_sent": 524288000,
+  "encrypt_time_ms": 684.1103999176994,
+  "bytes_received": 524288000,
+  "decrypt_time_ms": 975.1034000655636,
+  "end_to_end_transfer_time_ms": 1659.216900006868,
+  "throughput_bytes_per_sec": 315985209.6478946,
+  "success": true
+}

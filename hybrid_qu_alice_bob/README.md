@@ -103,7 +103,7 @@ python benchmark.py --hybrid --runs 32 --bytes 1048576
 #### Metrics Collected
 - **Client Metrics**:
   - `handshake_time_ms`: Total hybrid handshake duration
-  - `rtt_ms`: Round-trip time measurement
+  - `ping_rtt_ms`: 4-byte Ping Round-trip time measurement
   - `end_to_end_transfer_time_ms`: Complete data transfer time: Client send time + network round-trip + server processing + client receive time
   - `throughput_bytes_per_sec`: Data transfer rate
   - `encrypt_time_ms`: Encryption timing approximation

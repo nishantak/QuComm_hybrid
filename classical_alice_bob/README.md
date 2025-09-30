@@ -68,7 +68,7 @@ python benchmark.py --host <BOB_PUBLIC_IP> --tls 1.3 --runs 16
 
 #### Round-Trip Time (RTT)
 - **Method**: Client sends 4-byte `PING`, server echoes back
-- **Measurement**: Application-layer round-trip timing
+- **Measurement**: Application-layer ping round-trip timing
 - **Purpose**: Network latency baseline measurement
 
 #### Data Transfer Performance

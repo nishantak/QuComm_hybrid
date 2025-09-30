@@ -1,0 +1,192 @@
+2025-09-30 11:02:29 | TCP connected to ('127.0.0.1', 44330) in 0.650ms
+2025-09-30 11:02:29 | Handshake complete in 5.356ms
+2025-09-30 11:02:29 | Transfer success=True bytes=1024 time=0.000101s
+2025-09-30 11:02:29 | TCP connected to ('127.0.0.1', 44330) in 0.667ms
+2025-09-30 11:02:29 | Handshake complete in 4.887ms
+2025-09-30 11:02:29 | Transfer success=True bytes=1024 time=0.000103s
+2025-09-30 11:02:29 | TCP connected to ('127.0.0.1', 44330) in 0.635ms
+2025-09-30 11:02:29 | Handshake complete in 4.598ms
+2025-09-30 11:02:29 | Transfer success=True bytes=1024 time=0.000129s
+2025-09-30 11:02:29 | TCP connected to ('127.0.0.1', 44330) in 0.656ms
+2025-09-30 11:02:29 | Handshake complete in 4.610ms
+2025-09-30 11:02:29 | Transfer success=True bytes=1024 time=0.000109s
+2025-09-30 11:02:29 | TCP connected to ('127.0.0.1', 44330) in 0.631ms
+2025-09-30 11:02:29 | Handshake complete in 4.985ms
+2025-09-30 11:02:29 | Transfer success=True bytes=1024 time=0.000095s
+2025-09-30 11:02:30 | TCP connected to ('127.0.0.1', 44330) in 0.694ms
+2025-09-30 11:02:30 | Handshake complete in 4.968ms
+2025-09-30 11:02:30 | Transfer success=True bytes=1024 time=0.000092s
+2025-09-30 11:02:30 | TCP connected to ('127.0.0.1', 44330) in 0.667ms
+2025-09-30 11:02:30 | Handshake complete in 4.715ms
+2025-09-30 11:02:30 | Transfer success=True bytes=1024 time=0.000111s
+2025-09-30 11:02:30 | TCP connected to ('127.0.0.1', 44330) in 0.645ms
+2025-09-30 11:02:30 | Handshake complete in 4.535ms
+2025-09-30 11:02:30 | Transfer success=True bytes=1024 time=0.000104s
+2025-09-30 11:02:30 | TCP connected to ('127.0.0.1', 44330) in 0.634ms
+2025-09-30 11:02:30 | Handshake complete in 4.754ms
+2025-09-30 11:02:30 | Transfer success=True bytes=1024 time=0.000101s
+2025-09-30 11:02:30 | TCP connected to ('127.0.0.1', 44330) in 0.637ms
+2025-09-30 11:02:30 | Handshake complete in 4.825ms
+2025-09-30 11:02:30 | Transfer success=True bytes=1024 time=0.000102s
+2025-09-30 11:02:30 | TCP connected to ('127.0.0.1', 44330) in 0.638ms
+2025-09-30 11:02:30 | Handshake complete in 5.067ms
+2025-09-30 11:02:30 | Transfer success=True bytes=1024 time=0.000096s
+2025-09-30 11:02:30 | TCP connected to ('127.0.0.1', 44330) in 0.639ms
+2025-09-30 11:02:30 | Handshake complete in 4.586ms
+2025-09-30 11:02:30 | Transfer success=True bytes=1024 time=0.000091s
+2025-09-30 11:02:31 | TCP connected to ('127.0.0.1', 44330) in 0.615ms
+2025-09-30 11:02:31 | Handshake complete in 4.550ms
+2025-09-30 11:02:31 | Transfer success=True bytes=1024 time=0.000100s
+2025-09-30 11:02:31 | TCP connected to ('127.0.0.1', 44330) in 0.662ms
+2025-09-30 11:02:31 | Handshake complete in 4.929ms
+2025-09-30 11:02:31 | Transfer success=True bytes=1024 time=0.000099s
+2025-09-30 11:02:31 | TCP connected to ('127.0.0.1', 44330) in 0.639ms
+2025-09-30 11:02:31 | Handshake complete in 4.753ms
+2025-09-30 11:02:31 | Transfer success=True bytes=1024 time=0.000093s
+2025-09-30 11:02:31 | TCP connected to ('127.0.0.1', 44330) in 0.734ms
+2025-09-30 11:02:31 | Handshake complete in 4.659ms
+2025-09-30 11:02:31 | Transfer success=True bytes=1024 time=0.000099s
+2025-09-30 11:02:33 | TCP connected to ('127.0.0.1', 44330) in 0.653ms
+2025-09-30 11:02:33 | Handshake complete in 5.040ms
+2025-09-30 11:02:33 | Transfer success=True bytes=102400 time=0.000433s
+2025-09-30 11:02:33 | TCP connected to ('127.0.0.1', 44330) in 0.756ms
+2025-09-30 11:02:33 | Handshake complete in 4.757ms
+2025-09-30 11:02:33 | Transfer success=True bytes=102400 time=0.000373s
+2025-09-30 11:02:34 | TCP connected to ('127.0.0.1', 44330) in 0.647ms
+2025-09-30 11:02:34 | Handshake complete in 5.006ms
+2025-09-30 11:02:34 | Transfer success=True bytes=102400 time=0.000437s
+2025-09-30 11:02:34 | TCP connected to ('127.0.0.1', 44330) in 0.637ms
+2025-09-30 11:02:34 | Handshake complete in 4.633ms
+2025-09-30 11:02:34 | Transfer success=True bytes=102400 time=0.000808s
+2025-09-30 11:02:34 | TCP connected to ('127.0.0.1', 44330) in 0.637ms
+2025-09-30 11:02:34 | Handshake complete in 4.586ms
+2025-09-30 11:02:34 | Transfer success=True bytes=102400 time=0.000462s
+2025-09-30 11:02:34 | TCP connected to ('127.0.0.1', 44330) in 0.664ms
+2025-09-30 11:02:34 | Handshake complete in 4.604ms
+2025-09-30 11:02:34 | Transfer success=True bytes=102400 time=0.000396s
+2025-09-30 11:02:34 | TCP connected to ('127.0.0.1', 44330) in 0.645ms
+2025-09-30 11:02:34 | Handshake complete in 4.936ms
+2025-09-30 11:02:34 | Transfer success=True bytes=102400 time=0.000414s
+2025-09-30 11:02:34 | TCP connected to ('127.0.0.1', 44330) in 0.699ms
+2025-09-30 11:02:34 | Handshake complete in 5.169ms
+2025-09-30 11:02:34 | Transfer success=True bytes=102400 time=0.000422s
+2025-09-30 11:02:35 | TCP connected to ('127.0.0.1', 44330) in 0.629ms
+2025-09-30 11:02:35 | Handshake complete in 5.163ms
+2025-09-30 11:02:35 | Transfer success=True bytes=102400 time=0.000453s
+2025-09-30 11:02:35 | TCP connected to ('127.0.0.1', 44330) in 0.643ms
+2025-09-30 11:02:35 | Handshake complete in 4.587ms
+2025-09-30 11:02:35 | Transfer success=True bytes=102400 time=0.000451s
+2025-09-30 11:02:35 | TCP connected to ('127.0.0.1', 44330) in 0.639ms
+2025-09-30 11:02:35 | Handshake complete in 4.985ms
+2025-09-30 11:02:35 | Transfer success=True bytes=102400 time=0.000473s
+2025-09-30 11:02:35 | TCP connected to ('127.0.0.1', 44330) in 0.627ms
+2025-09-30 11:02:35 | Handshake complete in 4.393ms
+2025-09-30 11:02:35 | Transfer success=True bytes=102400 time=0.000377s
+2025-09-30 11:02:35 | TCP connected to ('127.0.0.1', 44330) in 0.646ms
+2025-09-30 11:02:35 | Handshake complete in 5.058ms
+2025-09-30 11:02:35 | Transfer success=True bytes=102400 time=0.000423s
+2025-09-30 11:02:35 | TCP connected to ('127.0.0.1', 44330) in 0.725ms
+2025-09-30 11:02:35 | Handshake complete in 4.626ms
+2025-09-30 11:02:35 | Transfer success=True bytes=102400 time=0.000412s
+2025-09-30 11:02:35 | TCP connected to ('127.0.0.1', 44330) in 0.632ms
+2025-09-30 11:02:35 | Handshake complete in 4.645ms
+2025-09-30 11:02:35 | Transfer success=True bytes=102400 time=0.000388s
+2025-09-30 11:02:36 | TCP connected to ('127.0.0.1', 44330) in 0.793ms
+2025-09-30 11:02:36 | Handshake complete in 4.716ms
+2025-09-30 11:02:36 | Transfer success=True bytes=102400 time=0.000429s
+2025-09-30 11:02:38 | TCP connected to ('127.0.0.1', 44330) in 0.640ms
+2025-09-30 11:02:38 | Handshake complete in 4.720ms
+2025-09-30 11:02:38 | Transfer success=True bytes=1048576 time=0.003270s
+2025-09-30 11:02:38 | TCP connected to ('127.0.0.1', 44330) in 0.649ms
+2025-09-30 11:02:38 | Handshake complete in 4.697ms
+2025-09-30 11:02:38 | Transfer success=True bytes=1048576 time=0.003264s
+2025-09-30 11:02:38 | TCP connected to ('127.0.0.1', 44330) in 0.635ms
+2025-09-30 11:02:38 | Handshake complete in 4.526ms
+2025-09-30 11:02:38 | Transfer success=True bytes=1048576 time=0.003265s
+2025-09-30 11:02:38 | TCP connected to ('127.0.0.1', 44330) in 0.663ms
+2025-09-30 11:02:38 | Handshake complete in 4.665ms
+2025-09-30 11:02:38 | Transfer success=True bytes=1048576 time=0.003316s
+2025-09-30 11:02:38 | TCP connected to ('127.0.0.1', 44330) in 0.650ms
+2025-09-30 11:02:38 | Handshake complete in 4.645ms
+2025-09-30 11:02:38 | Transfer success=True bytes=1048576 time=0.002874s
+2025-09-30 11:02:39 | TCP connected to ('127.0.0.1', 44330) in 0.645ms
+2025-09-30 11:02:39 | Handshake complete in 5.051ms
+2025-09-30 11:02:39 | Transfer success=True bytes=1048576 time=0.003353s
+2025-09-30 11:02:39 | TCP connected to ('127.0.0.1', 44330) in 0.646ms
+2025-09-30 11:02:39 | Handshake complete in 5.000ms
+2025-09-30 11:02:39 | Transfer success=True bytes=1048576 time=0.003045s
+2025-09-30 11:02:39 | TCP connected to ('127.0.0.1', 44330) in 0.641ms
+2025-09-30 11:02:39 | Handshake complete in 5.082ms
+2025-09-30 11:02:39 | Transfer success=True bytes=1048576 time=0.002986s
+2025-09-30 11:02:39 | TCP connected to ('127.0.0.1', 44330) in 0.654ms
+2025-09-30 11:02:39 | Handshake complete in 5.019ms
+2025-09-30 11:02:39 | Transfer success=True bytes=1048576 time=0.002433s
+2025-09-30 11:02:39 | TCP connected to ('127.0.0.1', 44330) in 0.634ms
+2025-09-30 11:02:39 | Handshake complete in 5.354ms
+2025-09-30 11:02:39 | Transfer success=True bytes=1048576 time=0.002406s
+2025-09-30 11:02:39 | TCP connected to ('127.0.0.1', 44330) in 0.704ms
+2025-09-30 11:02:39 | Handshake complete in 5.687ms
+2025-09-30 11:02:39 | Transfer success=True bytes=1048576 time=0.002759s
+2025-09-30 11:02:39 | TCP connected to ('127.0.0.1', 44330) in 0.766ms
+2025-09-30 11:02:39 | Handshake complete in 5.743ms
+2025-09-30 11:02:39 | Transfer success=True bytes=1048576 time=0.003436s
+2025-09-30 11:02:40 | TCP connected to ('127.0.0.1', 44330) in 0.640ms
+2025-09-30 11:02:40 | Handshake complete in 4.546ms
+2025-09-30 11:02:40 | Transfer success=True bytes=1048576 time=0.003146s
+2025-09-30 11:02:40 | TCP connected to ('127.0.0.1', 44330) in 0.635ms
+2025-09-30 11:02:40 | Handshake complete in 4.690ms
+2025-09-30 11:02:40 | Transfer success=True bytes=1048576 time=0.002392s
+2025-09-30 11:02:40 | TCP connected to ('127.0.0.1', 44330) in 0.677ms
+2025-09-30 11:02:40 | Handshake complete in 5.204ms
+2025-09-30 11:02:40 | Transfer success=True bytes=1048576 time=0.003067s
+2025-09-30 11:02:40 | TCP connected to ('127.0.0.1', 44330) in 0.739ms
+2025-09-30 11:02:40 | Handshake complete in 4.721ms
+2025-09-30 11:02:40 | Transfer success=True bytes=1048576 time=0.002108s
+2025-09-30 11:02:42 | TCP connected to ('127.0.0.1', 44330) in 0.667ms
+2025-09-30 11:02:42 | Handshake complete in 5.021ms
+2025-09-30 11:02:43 | Transfer success=True bytes=104857600 time=0.219682s
+2025-09-30 11:02:43 | TCP connected to ('127.0.0.1', 44330) in 0.647ms
+2025-09-30 11:02:43 | Handshake complete in 4.538ms
+2025-09-30 11:02:43 | Transfer success=True bytes=104857600 time=0.223074s
+2025-09-30 11:02:43 | TCP connected to ('127.0.0.1', 44330) in 0.622ms
+2025-09-30 11:02:43 | Handshake complete in 4.767ms
+2025-09-30 11:02:43 | Transfer success=True bytes=104857600 time=0.220956s
+2025-09-30 11:02:44 | TCP connected to ('127.0.0.1', 44330) in 0.628ms
+2025-09-30 11:02:44 | Handshake complete in 4.478ms
+2025-09-30 11:02:44 | Transfer success=True bytes=104857600 time=0.222444s
+2025-09-30 11:02:44 | TCP connected to ('127.0.0.1', 44330) in 0.658ms
+2025-09-30 11:02:44 | Handshake complete in 4.845ms
+2025-09-30 11:02:44 | Transfer success=True bytes=104857600 time=0.219803s
+2025-09-30 11:02:44 | TCP connected to ('127.0.0.1', 44330) in 0.657ms
+2025-09-30 11:02:44 | Handshake complete in 4.833ms
+2025-09-30 11:02:45 | Transfer success=True bytes=104857600 time=0.221345s
+2025-09-30 11:02:45 | TCP connected to ('127.0.0.1', 44330) in 0.722ms
+2025-09-30 11:02:45 | Handshake complete in 4.724ms
+2025-09-30 11:02:45 | Transfer success=True bytes=104857600 time=0.221021s
+2025-09-30 11:02:45 | TCP connected to ('127.0.0.1', 44330) in 0.670ms
+2025-09-30 11:02:45 | Handshake complete in 4.844ms
+2025-09-30 11:02:46 | Transfer success=True bytes=104857600 time=0.218543s
+2025-09-30 11:02:46 | TCP connected to ('127.0.0.1', 44330) in 0.817ms
+2025-09-30 11:02:46 | Handshake complete in 5.273ms
+2025-09-30 11:02:46 | Transfer success=True bytes=104857600 time=0.255359s
+2025-09-30 11:02:46 | TCP connected to ('127.0.0.1', 44330) in 0.707ms
+2025-09-30 11:02:46 | Handshake complete in 5.097ms
+2025-09-30 11:02:46 | Transfer success=True bytes=104857600 time=0.223524s
+2025-09-30 11:02:47 | TCP connected to ('127.0.0.1', 44330) in 0.737ms
+2025-09-30 11:02:47 | Handshake complete in 4.935ms
+2025-09-30 11:02:47 | Transfer success=True bytes=104857600 time=0.222580s
+2025-09-30 11:02:47 | TCP connected to ('127.0.0.1', 44330) in 0.644ms
+2025-09-30 11:02:47 | Handshake complete in 5.129ms
+2025-09-30 11:02:47 | Transfer success=True bytes=104857600 time=0.216072s
+2025-09-30 11:02:47 | TCP connected to ('127.0.0.1', 44330) in 0.726ms
+2025-09-30 11:02:47 | Handshake complete in 5.275ms
+2025-09-30 11:02:48 | Transfer success=True bytes=104857600 time=0.220907s
+2025-09-30 11:02:48 | TCP connected to ('127.0.0.1', 44330) in 0.756ms
+2025-09-30 11:02:48 | Handshake complete in 4.908ms
+2025-09-30 11:02:48 | Transfer success=True bytes=104857600 time=0.234318s
+2025-09-30 11:02:48 | TCP connected to ('127.0.0.1', 44330) in 0.648ms
+2025-09-30 11:02:48 | Handshake complete in 5.186ms
+2025-09-30 11:02:49 | Transfer success=True bytes=104857600 time=0.237181s
+2025-09-30 11:02:49 | TCP connected to ('127.0.0.1', 44330) in 0.653ms
+2025-09-30 11:02:49 | Handshake complete in 5.442ms
+2025-09-30 11:02:49 | Transfer success=True bytes=104857600 time=0.223649s
