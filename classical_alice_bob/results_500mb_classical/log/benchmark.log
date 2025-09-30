@@ -1,240 +1,240 @@
-2025-09-30 13:04:50 | Starting server for TLS 1.3 run 1/16
-2025-09-30 13:04:50 | Server ready detected
-2025-09-30 13:04:50 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:50 | Starting server for TLS 1.3 run 2/16
-2025-09-30 13:04:50 | Server ready detected
-2025-09-30 13:04:50 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:50 | Starting server for TLS 1.3 run 3/16
-2025-09-30 13:04:50 | Server ready detected
-2025-09-30 13:04:50 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:50 | Starting server for TLS 1.3 run 4/16
-2025-09-30 13:04:50 | Server ready detected
-2025-09-30 13:04:50 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:50 | Starting server for TLS 1.3 run 5/16
-2025-09-30 13:04:50 | Server ready detected
-2025-09-30 13:04:50 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:50 | Starting server for TLS 1.3 run 6/16
-2025-09-30 13:04:51 | Server ready detected
-2025-09-30 13:04:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:51 | Starting server for TLS 1.3 run 7/16
-2025-09-30 13:04:51 | Server ready detected
-2025-09-30 13:04:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:51 | Starting server for TLS 1.3 run 8/16
-2025-09-30 13:04:51 | Server ready detected
-2025-09-30 13:04:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:51 | Starting server for TLS 1.3 run 9/16
-2025-09-30 13:04:51 | Server ready detected
-2025-09-30 13:04:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:51 | Starting server for TLS 1.3 run 10/16
-2025-09-30 13:04:51 | Server ready detected
-2025-09-30 13:04:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:51 | Starting server for TLS 1.3 run 11/16
-2025-09-30 13:04:51 | Server ready detected
-2025-09-30 13:04:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:51 | Starting server for TLS 1.3 run 12/16
-2025-09-30 13:04:51 | Server ready detected
-2025-09-30 13:04:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:52 | Starting server for TLS 1.3 run 13/16
-2025-09-30 13:04:52 | Server ready detected
-2025-09-30 13:04:52 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:52 | Starting server for TLS 1.3 run 14/16
-2025-09-30 13:04:52 | Server ready detected
-2025-09-30 13:04:52 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:52 | Starting server for TLS 1.3 run 15/16
-2025-09-30 13:04:52 | Server ready detected
-2025-09-30 13:04:52 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:52 | Starting server for TLS 1.3 run 16/16
-2025-09-30 13:04:52 | Server ready detected
-2025-09-30 13:04:52 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
-2025-09-30 13:04:54 | Starting server for TLS 1.3 run 1/16
-2025-09-30 13:04:54 | Server ready detected
-2025-09-30 13:04:54 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:54 | Starting server for TLS 1.3 run 2/16
-2025-09-30 13:04:54 | Server ready detected
-2025-09-30 13:04:54 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:55 | Starting server for TLS 1.3 run 3/16
-2025-09-30 13:04:55 | Server ready detected
-2025-09-30 13:04:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:55 | Starting server for TLS 1.3 run 4/16
-2025-09-30 13:04:55 | Server ready detected
-2025-09-30 13:04:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:55 | Starting server for TLS 1.3 run 5/16
-2025-09-30 13:04:55 | Server ready detected
-2025-09-30 13:04:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:55 | Starting server for TLS 1.3 run 6/16
-2025-09-30 13:04:55 | Server ready detected
-2025-09-30 13:04:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:55 | Starting server for TLS 1.3 run 7/16
-2025-09-30 13:04:55 | Server ready detected
-2025-09-30 13:04:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:55 | Starting server for TLS 1.3 run 8/16
-2025-09-30 13:04:55 | Server ready detected
-2025-09-30 13:04:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:55 | Starting server for TLS 1.3 run 9/16
-2025-09-30 13:04:56 | Server ready detected
-2025-09-30 13:04:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:56 | Starting server for TLS 1.3 run 10/16
-2025-09-30 13:04:56 | Server ready detected
-2025-09-30 13:04:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:56 | Starting server for TLS 1.3 run 11/16
-2025-09-30 13:04:56 | Server ready detected
-2025-09-30 13:04:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:56 | Starting server for TLS 1.3 run 12/16
-2025-09-30 13:04:56 | Server ready detected
-2025-09-30 13:04:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:56 | Starting server for TLS 1.3 run 13/16
-2025-09-30 13:04:56 | Server ready detected
-2025-09-30 13:04:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:56 | Starting server for TLS 1.3 run 14/16
-2025-09-30 13:04:56 | Server ready detected
-2025-09-30 13:04:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:56 | Starting server for TLS 1.3 run 15/16
-2025-09-30 13:04:56 | Server ready detected
-2025-09-30 13:04:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:57 | Starting server for TLS 1.3 run 16/16
-2025-09-30 13:04:57 | Server ready detected
-2025-09-30 13:04:57 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
-2025-09-30 13:04:59 | Starting server for TLS 1.3 run 1/16
-2025-09-30 13:04:59 | Server ready detected
-2025-09-30 13:04:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:04:59 | Starting server for TLS 1.3 run 2/16
-2025-09-30 13:04:59 | Server ready detected
-2025-09-30 13:04:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:04:59 | Starting server for TLS 1.3 run 3/16
-2025-09-30 13:04:59 | Server ready detected
-2025-09-30 13:04:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:04:59 | Starting server for TLS 1.3 run 4/16
-2025-09-30 13:04:59 | Server ready detected
-2025-09-30 13:04:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:04:59 | Starting server for TLS 1.3 run 5/16
-2025-09-30 13:04:59 | Server ready detected
-2025-09-30 13:04:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:00 | Starting server for TLS 1.3 run 6/16
-2025-09-30 13:05:00 | Server ready detected
-2025-09-30 13:05:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:00 | Starting server for TLS 1.3 run 7/16
-2025-09-30 13:05:00 | Server ready detected
-2025-09-30 13:05:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:00 | Starting server for TLS 1.3 run 8/16
-2025-09-30 13:05:00 | Server ready detected
-2025-09-30 13:05:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:00 | Starting server for TLS 1.3 run 9/16
-2025-09-30 13:05:00 | Server ready detected
-2025-09-30 13:05:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:00 | Starting server for TLS 1.3 run 10/16
-2025-09-30 13:05:00 | Server ready detected
-2025-09-30 13:05:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:00 | Starting server for TLS 1.3 run 11/16
-2025-09-30 13:05:00 | Server ready detected
-2025-09-30 13:05:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:01 | Starting server for TLS 1.3 run 12/16
-2025-09-30 13:05:01 | Server ready detected
-2025-09-30 13:05:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:01 | Starting server for TLS 1.3 run 13/16
-2025-09-30 13:05:01 | Server ready detected
-2025-09-30 13:05:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:01 | Starting server for TLS 1.3 run 14/16
-2025-09-30 13:05:01 | Server ready detected
-2025-09-30 13:05:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:01 | Starting server for TLS 1.3 run 15/16
-2025-09-30 13:05:01 | Server ready detected
-2025-09-30 13:05:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:01 | Starting server for TLS 1.3 run 16/16
-2025-09-30 13:05:01 | Server ready detected
-2025-09-30 13:05:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
-2025-09-30 13:05:03 | Starting server for TLS 1.3 run 1/16
-2025-09-30 13:05:03 | Server ready detected
-2025-09-30 13:05:03 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:04 | Starting server for TLS 1.3 run 2/16
-2025-09-30 13:05:04 | Server ready detected
-2025-09-30 13:05:04 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:04 | Starting server for TLS 1.3 run 3/16
-2025-09-30 13:05:04 | Server ready detected
-2025-09-30 13:05:04 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:05 | Starting server for TLS 1.3 run 4/16
-2025-09-30 13:05:05 | Server ready detected
-2025-09-30 13:05:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:05 | Starting server for TLS 1.3 run 5/16
-2025-09-30 13:05:05 | Server ready detected
-2025-09-30 13:05:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:06 | Starting server for TLS 1.3 run 6/16
-2025-09-30 13:05:06 | Server ready detected
-2025-09-30 13:05:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:06 | Starting server for TLS 1.3 run 7/16
-2025-09-30 13:05:06 | Server ready detected
-2025-09-30 13:05:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:06 | Starting server for TLS 1.3 run 8/16
-2025-09-30 13:05:06 | Server ready detected
-2025-09-30 13:05:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:07 | Starting server for TLS 1.3 run 9/16
-2025-09-30 13:05:07 | Server ready detected
-2025-09-30 13:05:07 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:07 | Starting server for TLS 1.3 run 10/16
-2025-09-30 13:05:07 | Server ready detected
-2025-09-30 13:05:07 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:08 | Starting server for TLS 1.3 run 11/16
-2025-09-30 13:05:08 | Server ready detected
-2025-09-30 13:05:08 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:08 | Starting server for TLS 1.3 run 12/16
-2025-09-30 13:05:08 | Server ready detected
-2025-09-30 13:05:08 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:09 | Starting server for TLS 1.3 run 13/16
-2025-09-30 13:05:09 | Server ready detected
-2025-09-30 13:05:09 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:09 | Starting server for TLS 1.3 run 14/16
-2025-09-30 13:05:09 | Server ready detected
-2025-09-30 13:05:09 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:09 | Starting server for TLS 1.3 run 15/16
-2025-09-30 13:05:09 | Server ready detected
-2025-09-30 13:05:09 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:10 | Starting server for TLS 1.3 run 16/16
-2025-09-30 13:05:10 | Server ready detected
-2025-09-30 13:05:10 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
-2025-09-30 13:05:12 | Starting server for TLS 1.3 run 1/16
-2025-09-30 13:05:12 | Server ready detected
-2025-09-30 13:05:12 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:14 | Starting server for TLS 1.3 run 2/16
-2025-09-30 13:05:14 | Server ready detected
-2025-09-30 13:05:14 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:16 | Starting server for TLS 1.3 run 3/16
-2025-09-30 13:05:16 | Server ready detected
-2025-09-30 13:05:16 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:18 | Starting server for TLS 1.3 run 4/16
-2025-09-30 13:05:18 | Server ready detected
-2025-09-30 13:05:18 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:19 | Starting server for TLS 1.3 run 5/16
-2025-09-30 13:05:20 | Server ready detected
-2025-09-30 13:05:20 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:21 | Starting server for TLS 1.3 run 6/16
-2025-09-30 13:05:21 | Server ready detected
-2025-09-30 13:05:21 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:23 | Starting server for TLS 1.3 run 7/16
-2025-09-30 13:05:23 | Server ready detected
-2025-09-30 13:05:23 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:25 | Starting server for TLS 1.3 run 8/16
-2025-09-30 13:05:25 | Server ready detected
-2025-09-30 13:05:25 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:27 | Starting server for TLS 1.3 run 9/16
-2025-09-30 13:05:27 | Server ready detected
-2025-09-30 13:05:27 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:28 | Starting server for TLS 1.3 run 10/16
-2025-09-30 13:05:28 | Server ready detected
-2025-09-30 13:05:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:30 | Starting server for TLS 1.3 run 11/16
-2025-09-30 13:05:30 | Server ready detected
-2025-09-30 13:05:30 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:32 | Starting server for TLS 1.3 run 12/16
-2025-09-30 13:05:32 | Server ready detected
-2025-09-30 13:05:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:34 | Starting server for TLS 1.3 run 13/16
-2025-09-30 13:05:34 | Server ready detected
-2025-09-30 13:05:34 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:35 | Starting server for TLS 1.3 run 14/16
-2025-09-30 13:05:35 | Server ready detected
-2025-09-30 13:05:35 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:37 | Starting server for TLS 1.3 run 15/16
-2025-09-30 13:05:37 | Server ready detected
-2025-09-30 13:05:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
-2025-09-30 13:05:39 | Starting server for TLS 1.3 run 16/16
-2025-09-30 13:05:39 | Server ready detected
-2025-09-30 13:05:39 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:13:27 | Starting server for TLS 1.3 run 1/16
+2025-09-30 13:13:27 | Server ready detected
+2025-09-30 13:13:27 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:27 | Starting server for TLS 1.3 run 2/16
+2025-09-30 13:13:27 | Server ready detected
+2025-09-30 13:13:27 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:27 | Starting server for TLS 1.3 run 3/16
+2025-09-30 13:13:27 | Server ready detected
+2025-09-30 13:13:27 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:27 | Starting server for TLS 1.3 run 4/16
+2025-09-30 13:13:27 | Server ready detected
+2025-09-30 13:13:27 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:27 | Starting server for TLS 1.3 run 5/16
+2025-09-30 13:13:27 | Server ready detected
+2025-09-30 13:13:27 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:27 | Starting server for TLS 1.3 run 6/16
+2025-09-30 13:13:28 | Server ready detected
+2025-09-30 13:13:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:28 | Starting server for TLS 1.3 run 7/16
+2025-09-30 13:13:28 | Server ready detected
+2025-09-30 13:13:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:28 | Starting server for TLS 1.3 run 8/16
+2025-09-30 13:13:28 | Server ready detected
+2025-09-30 13:13:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:28 | Starting server for TLS 1.3 run 9/16
+2025-09-30 13:13:28 | Server ready detected
+2025-09-30 13:13:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:28 | Starting server for TLS 1.3 run 10/16
+2025-09-30 13:13:28 | Server ready detected
+2025-09-30 13:13:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:28 | Starting server for TLS 1.3 run 11/16
+2025-09-30 13:13:28 | Server ready detected
+2025-09-30 13:13:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:28 | Starting server for TLS 1.3 run 12/16
+2025-09-30 13:13:28 | Server ready detected
+2025-09-30 13:13:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:29 | Starting server for TLS 1.3 run 13/16
+2025-09-30 13:13:29 | Server ready detected
+2025-09-30 13:13:29 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:29 | Starting server for TLS 1.3 run 14/16
+2025-09-30 13:13:29 | Server ready detected
+2025-09-30 13:13:29 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:29 | Starting server for TLS 1.3 run 15/16
+2025-09-30 13:13:29 | Server ready detected
+2025-09-30 13:13:29 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:29 | Starting server for TLS 1.3 run 16/16
+2025-09-30 13:13:29 | Server ready detected
+2025-09-30 13:13:29 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024']
+2025-09-30 13:13:31 | Starting server for TLS 1.3 run 1/16
+2025-09-30 13:13:31 | Server ready detected
+2025-09-30 13:13:31 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:31 | Starting server for TLS 1.3 run 2/16
+2025-09-30 13:13:31 | Server ready detected
+2025-09-30 13:13:31 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:31 | Starting server for TLS 1.3 run 3/16
+2025-09-30 13:13:32 | Server ready detected
+2025-09-30 13:13:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:32 | Starting server for TLS 1.3 run 4/16
+2025-09-30 13:13:32 | Server ready detected
+2025-09-30 13:13:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:32 | Starting server for TLS 1.3 run 5/16
+2025-09-30 13:13:32 | Server ready detected
+2025-09-30 13:13:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:32 | Starting server for TLS 1.3 run 6/16
+2025-09-30 13:13:32 | Server ready detected
+2025-09-30 13:13:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:32 | Starting server for TLS 1.3 run 7/16
+2025-09-30 13:13:32 | Server ready detected
+2025-09-30 13:13:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:32 | Starting server for TLS 1.3 run 8/16
+2025-09-30 13:13:32 | Server ready detected
+2025-09-30 13:13:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:32 | Starting server for TLS 1.3 run 9/16
+2025-09-30 13:13:32 | Server ready detected
+2025-09-30 13:13:32 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:32 | Starting server for TLS 1.3 run 10/16
+2025-09-30 13:13:33 | Server ready detected
+2025-09-30 13:13:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:33 | Starting server for TLS 1.3 run 11/16
+2025-09-30 13:13:33 | Server ready detected
+2025-09-30 13:13:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:33 | Starting server for TLS 1.3 run 12/16
+2025-09-30 13:13:33 | Server ready detected
+2025-09-30 13:13:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:33 | Starting server for TLS 1.3 run 13/16
+2025-09-30 13:13:33 | Server ready detected
+2025-09-30 13:13:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:33 | Starting server for TLS 1.3 run 14/16
+2025-09-30 13:13:33 | Server ready detected
+2025-09-30 13:13:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:33 | Starting server for TLS 1.3 run 15/16
+2025-09-30 13:13:33 | Server ready detected
+2025-09-30 13:13:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:33 | Starting server for TLS 1.3 run 16/16
+2025-09-30 13:13:33 | Server ready detected
+2025-09-30 13:13:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400']
+2025-09-30 13:13:36 | Starting server for TLS 1.3 run 1/16
+2025-09-30 13:13:36 | Server ready detected
+2025-09-30 13:13:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:36 | Starting server for TLS 1.3 run 2/16
+2025-09-30 13:13:36 | Server ready detected
+2025-09-30 13:13:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:36 | Starting server for TLS 1.3 run 3/16
+2025-09-30 13:13:36 | Server ready detected
+2025-09-30 13:13:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:36 | Starting server for TLS 1.3 run 4/16
+2025-09-30 13:13:36 | Server ready detected
+2025-09-30 13:13:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:36 | Starting server for TLS 1.3 run 5/16
+2025-09-30 13:13:36 | Server ready detected
+2025-09-30 13:13:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:36 | Starting server for TLS 1.3 run 6/16
+2025-09-30 13:13:36 | Server ready detected
+2025-09-30 13:13:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:36 | Starting server for TLS 1.3 run 7/16
+2025-09-30 13:13:37 | Server ready detected
+2025-09-30 13:13:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:37 | Starting server for TLS 1.3 run 8/16
+2025-09-30 13:13:37 | Server ready detected
+2025-09-30 13:13:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:37 | Starting server for TLS 1.3 run 9/16
+2025-09-30 13:13:37 | Server ready detected
+2025-09-30 13:13:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:37 | Starting server for TLS 1.3 run 10/16
+2025-09-30 13:13:37 | Server ready detected
+2025-09-30 13:13:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:37 | Starting server for TLS 1.3 run 11/16
+2025-09-30 13:13:37 | Server ready detected
+2025-09-30 13:13:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:37 | Starting server for TLS 1.3 run 12/16
+2025-09-30 13:13:37 | Server ready detected
+2025-09-30 13:13:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:37 | Starting server for TLS 1.3 run 13/16
+2025-09-30 13:13:37 | Server ready detected
+2025-09-30 13:13:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:38 | Starting server for TLS 1.3 run 14/16
+2025-09-30 13:13:38 | Server ready detected
+2025-09-30 13:13:38 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:38 | Starting server for TLS 1.3 run 15/16
+2025-09-30 13:13:38 | Server ready detected
+2025-09-30 13:13:38 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:38 | Starting server for TLS 1.3 run 16/16
+2025-09-30 13:13:38 | Server ready detected
+2025-09-30 13:13:38 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576']
+2025-09-30 13:13:40 | Starting server for TLS 1.3 run 1/16
+2025-09-30 13:13:40 | Server ready detected
+2025-09-30 13:13:40 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:40 | Starting server for TLS 1.3 run 2/16
+2025-09-30 13:13:41 | Server ready detected
+2025-09-30 13:13:41 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:41 | Starting server for TLS 1.3 run 3/16
+2025-09-30 13:13:41 | Server ready detected
+2025-09-30 13:13:41 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:41 | Starting server for TLS 1.3 run 4/16
+2025-09-30 13:13:41 | Server ready detected
+2025-09-30 13:13:41 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:42 | Starting server for TLS 1.3 run 5/16
+2025-09-30 13:13:42 | Server ready detected
+2025-09-30 13:13:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:42 | Starting server for TLS 1.3 run 6/16
+2025-09-30 13:13:42 | Server ready detected
+2025-09-30 13:13:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:43 | Starting server for TLS 1.3 run 7/16
+2025-09-30 13:13:43 | Server ready detected
+2025-09-30 13:13:43 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:43 | Starting server for TLS 1.3 run 8/16
+2025-09-30 13:13:43 | Server ready detected
+2025-09-30 13:13:43 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:43 | Starting server for TLS 1.3 run 9/16
+2025-09-30 13:13:43 | Server ready detected
+2025-09-30 13:13:43 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:44 | Starting server for TLS 1.3 run 10/16
+2025-09-30 13:13:44 | Server ready detected
+2025-09-30 13:13:44 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:44 | Starting server for TLS 1.3 run 11/16
+2025-09-30 13:13:44 | Server ready detected
+2025-09-30 13:13:44 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:45 | Starting server for TLS 1.3 run 12/16
+2025-09-30 13:13:45 | Server ready detected
+2025-09-30 13:13:45 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:45 | Starting server for TLS 1.3 run 13/16
+2025-09-30 13:13:45 | Server ready detected
+2025-09-30 13:13:45 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:46 | Starting server for TLS 1.3 run 14/16
+2025-09-30 13:13:46 | Server ready detected
+2025-09-30 13:13:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:46 | Starting server for TLS 1.3 run 15/16
+2025-09-30 13:13:46 | Server ready detected
+2025-09-30 13:13:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:46 | Starting server for TLS 1.3 run 16/16
+2025-09-30 13:13:46 | Server ready detected
+2025-09-30 13:13:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600']
+2025-09-30 13:13:49 | Starting server for TLS 1.3 run 1/16
+2025-09-30 13:13:49 | Server ready detected
+2025-09-30 13:13:49 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:13:51 | Starting server for TLS 1.3 run 2/16
+2025-09-30 13:13:51 | Server ready detected
+2025-09-30 13:13:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:13:52 | Starting server for TLS 1.3 run 3/16
+2025-09-30 13:13:53 | Server ready detected
+2025-09-30 13:13:53 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:13:54 | Starting server for TLS 1.3 run 4/16
+2025-09-30 13:13:54 | Server ready detected
+2025-09-30 13:13:54 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:13:56 | Starting server for TLS 1.3 run 5/16
+2025-09-30 13:13:56 | Server ready detected
+2025-09-30 13:13:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:13:58 | Starting server for TLS 1.3 run 6/16
+2025-09-30 13:13:58 | Server ready detected
+2025-09-30 13:13:58 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:13:59 | Starting server for TLS 1.3 run 7/16
+2025-09-30 13:14:00 | Server ready detected
+2025-09-30 13:14:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:01 | Starting server for TLS 1.3 run 8/16
+2025-09-30 13:14:01 | Server ready detected
+2025-09-30 13:14:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:03 | Starting server for TLS 1.3 run 9/16
+2025-09-30 13:14:03 | Server ready detected
+2025-09-30 13:14:03 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:05 | Starting server for TLS 1.3 run 10/16
+2025-09-30 13:14:05 | Server ready detected
+2025-09-30 13:14:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:06 | Starting server for TLS 1.3 run 11/16
+2025-09-30 13:14:07 | Server ready detected
+2025-09-30 13:14:07 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:08 | Starting server for TLS 1.3 run 12/16
+2025-09-30 13:14:08 | Server ready detected
+2025-09-30 13:14:08 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:10 | Starting server for TLS 1.3 run 13/16
+2025-09-30 13:14:10 | Server ready detected
+2025-09-30 13:14:10 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:12 | Starting server for TLS 1.3 run 14/16
+2025-09-30 13:14:12 | Server ready detected
+2025-09-30 13:14:12 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:14 | Starting server for TLS 1.3 run 15/16
+2025-09-30 13:14:14 | Server ready detected
+2025-09-30 13:14:14 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']
+2025-09-30 13:14:15 | Starting server for TLS 1.3 run 16/16
+2025-09-30 13:14:15 | Server ready detected
+2025-09-30 13:14:15 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000']

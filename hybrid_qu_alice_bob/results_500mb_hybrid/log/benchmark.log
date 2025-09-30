@@ -1,240 +1,240 @@
-2025-09-30 13:06:57 | Starting Hybrid server for TLS 1.3 run 1/16
-2025-09-30 13:06:57 | Server ready detected
-2025-09-30 13:06:57 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:58 | Starting Hybrid server for TLS 1.3 run 2/16
-2025-09-30 13:06:58 | Server ready detected
-2025-09-30 13:06:58 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:58 | Starting Hybrid server for TLS 1.3 run 3/16
-2025-09-30 13:06:58 | Server ready detected
-2025-09-30 13:06:58 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:58 | Starting Hybrid server for TLS 1.3 run 4/16
-2025-09-30 13:06:58 | Server ready detected
-2025-09-30 13:06:58 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:58 | Starting Hybrid server for TLS 1.3 run 5/16
-2025-09-30 13:06:58 | Server ready detected
-2025-09-30 13:06:58 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:58 | Starting Hybrid server for TLS 1.3 run 6/16
-2025-09-30 13:06:59 | Server ready detected
-2025-09-30 13:06:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:59 | Starting Hybrid server for TLS 1.3 run 7/16
-2025-09-30 13:06:59 | Server ready detected
-2025-09-30 13:06:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:59 | Starting Hybrid server for TLS 1.3 run 8/16
-2025-09-30 13:06:59 | Server ready detected
-2025-09-30 13:06:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:59 | Starting Hybrid server for TLS 1.3 run 9/16
-2025-09-30 13:06:59 | Server ready detected
-2025-09-30 13:06:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:06:59 | Starting Hybrid server for TLS 1.3 run 10/16
-2025-09-30 13:07:00 | Server ready detected
-2025-09-30 13:07:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:07:00 | Starting Hybrid server for TLS 1.3 run 11/16
-2025-09-30 13:07:00 | Server ready detected
-2025-09-30 13:07:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:07:00 | Starting Hybrid server for TLS 1.3 run 12/16
-2025-09-30 13:07:00 | Server ready detected
-2025-09-30 13:07:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:07:00 | Starting Hybrid server for TLS 1.3 run 13/16
-2025-09-30 13:07:00 | Server ready detected
-2025-09-30 13:07:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:07:00 | Starting Hybrid server for TLS 1.3 run 14/16
-2025-09-30 13:07:01 | Server ready detected
-2025-09-30 13:07:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:07:01 | Starting Hybrid server for TLS 1.3 run 15/16
-2025-09-30 13:07:01 | Server ready detected
-2025-09-30 13:07:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:07:01 | Starting Hybrid server for TLS 1.3 run 16/16
-2025-09-30 13:07:01 | Server ready detected
-2025-09-30 13:07:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
-2025-09-30 13:07:03 | Starting Hybrid server for TLS 1.3 run 1/16
-2025-09-30 13:07:03 | Server ready detected
-2025-09-30 13:07:03 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:04 | Starting Hybrid server for TLS 1.3 run 2/16
-2025-09-30 13:07:04 | Server ready detected
-2025-09-30 13:07:04 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:04 | Starting Hybrid server for TLS 1.3 run 3/16
-2025-09-30 13:07:04 | Server ready detected
-2025-09-30 13:07:04 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:04 | Starting Hybrid server for TLS 1.3 run 4/16
-2025-09-30 13:07:04 | Server ready detected
-2025-09-30 13:07:04 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:04 | Starting Hybrid server for TLS 1.3 run 5/16
-2025-09-30 13:07:04 | Server ready detected
-2025-09-30 13:07:04 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:04 | Starting Hybrid server for TLS 1.3 run 6/16
-2025-09-30 13:07:05 | Server ready detected
-2025-09-30 13:07:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:05 | Starting Hybrid server for TLS 1.3 run 7/16
-2025-09-30 13:07:05 | Server ready detected
-2025-09-30 13:07:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:05 | Starting Hybrid server for TLS 1.3 run 8/16
-2025-09-30 13:07:05 | Server ready detected
-2025-09-30 13:07:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:05 | Starting Hybrid server for TLS 1.3 run 9/16
-2025-09-30 13:07:05 | Server ready detected
-2025-09-30 13:07:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:05 | Starting Hybrid server for TLS 1.3 run 10/16
-2025-09-30 13:07:06 | Server ready detected
-2025-09-30 13:07:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:06 | Starting Hybrid server for TLS 1.3 run 11/16
-2025-09-30 13:07:06 | Server ready detected
-2025-09-30 13:07:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:06 | Starting Hybrid server for TLS 1.3 run 12/16
-2025-09-30 13:07:06 | Server ready detected
-2025-09-30 13:07:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:06 | Starting Hybrid server for TLS 1.3 run 13/16
-2025-09-30 13:07:06 | Server ready detected
-2025-09-30 13:07:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:06 | Starting Hybrid server for TLS 1.3 run 14/16
-2025-09-30 13:07:07 | Server ready detected
-2025-09-30 13:07:07 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:07 | Starting Hybrid server for TLS 1.3 run 15/16
-2025-09-30 13:07:07 | Server ready detected
-2025-09-30 13:07:07 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:07 | Starting Hybrid server for TLS 1.3 run 16/16
-2025-09-30 13:07:07 | Server ready detected
-2025-09-30 13:07:07 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
-2025-09-30 13:07:09 | Starting Hybrid server for TLS 1.3 run 1/16
-2025-09-30 13:07:09 | Server ready detected
-2025-09-30 13:07:09 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:10 | Starting Hybrid server for TLS 1.3 run 2/16
-2025-09-30 13:07:10 | Server ready detected
-2025-09-30 13:07:10 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:10 | Starting Hybrid server for TLS 1.3 run 3/16
-2025-09-30 13:07:10 | Server ready detected
-2025-09-30 13:07:10 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:10 | Starting Hybrid server for TLS 1.3 run 4/16
-2025-09-30 13:07:10 | Server ready detected
-2025-09-30 13:07:10 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:10 | Starting Hybrid server for TLS 1.3 run 5/16
-2025-09-30 13:07:10 | Server ready detected
-2025-09-30 13:07:10 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:10 | Starting Hybrid server for TLS 1.3 run 6/16
-2025-09-30 13:07:11 | Server ready detected
-2025-09-30 13:07:11 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:11 | Starting Hybrid server for TLS 1.3 run 7/16
-2025-09-30 13:07:11 | Server ready detected
-2025-09-30 13:07:11 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:11 | Starting Hybrid server for TLS 1.3 run 8/16
-2025-09-30 13:07:11 | Server ready detected
-2025-09-30 13:07:11 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:11 | Starting Hybrid server for TLS 1.3 run 9/16
-2025-09-30 13:07:11 | Server ready detected
-2025-09-30 13:07:11 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:11 | Starting Hybrid server for TLS 1.3 run 10/16
-2025-09-30 13:07:12 | Server ready detected
-2025-09-30 13:07:12 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:12 | Starting Hybrid server for TLS 1.3 run 11/16
-2025-09-30 13:07:12 | Server ready detected
-2025-09-30 13:07:12 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:12 | Starting Hybrid server for TLS 1.3 run 12/16
-2025-09-30 13:07:12 | Server ready detected
-2025-09-30 13:07:12 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:12 | Starting Hybrid server for TLS 1.3 run 13/16
-2025-09-30 13:07:12 | Server ready detected
-2025-09-30 13:07:12 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:12 | Starting Hybrid server for TLS 1.3 run 14/16
-2025-09-30 13:07:13 | Server ready detected
-2025-09-30 13:07:13 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:13 | Starting Hybrid server for TLS 1.3 run 15/16
-2025-09-30 13:07:13 | Server ready detected
-2025-09-30 13:07:13 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:13 | Starting Hybrid server for TLS 1.3 run 16/16
-2025-09-30 13:07:13 | Server ready detected
-2025-09-30 13:07:13 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
-2025-09-30 13:07:15 | Starting Hybrid server for TLS 1.3 run 1/16
-2025-09-30 13:07:15 | Server ready detected
-2025-09-30 13:07:15 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:16 | Starting Hybrid server for TLS 1.3 run 2/16
-2025-09-30 13:07:16 | Server ready detected
-2025-09-30 13:07:16 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:17 | Starting Hybrid server for TLS 1.3 run 3/16
-2025-09-30 13:07:17 | Server ready detected
-2025-09-30 13:07:17 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:18 | Starting Hybrid server for TLS 1.3 run 4/16
-2025-09-30 13:07:18 | Server ready detected
-2025-09-30 13:07:18 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:18 | Starting Hybrid server for TLS 1.3 run 5/16
-2025-09-30 13:07:18 | Server ready detected
-2025-09-30 13:07:18 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:19 | Starting Hybrid server for TLS 1.3 run 6/16
-2025-09-30 13:07:19 | Server ready detected
-2025-09-30 13:07:19 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:20 | Starting Hybrid server for TLS 1.3 run 7/16
-2025-09-30 13:07:20 | Server ready detected
-2025-09-30 13:07:20 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:21 | Starting Hybrid server for TLS 1.3 run 8/16
-2025-09-30 13:07:21 | Server ready detected
-2025-09-30 13:07:21 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:21 | Starting Hybrid server for TLS 1.3 run 9/16
-2025-09-30 13:07:21 | Server ready detected
-2025-09-30 13:07:21 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:22 | Starting Hybrid server for TLS 1.3 run 10/16
-2025-09-30 13:07:22 | Server ready detected
-2025-09-30 13:07:22 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:23 | Starting Hybrid server for TLS 1.3 run 11/16
-2025-09-30 13:07:23 | Server ready detected
-2025-09-30 13:07:23 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:24 | Starting Hybrid server for TLS 1.3 run 12/16
-2025-09-30 13:07:24 | Server ready detected
-2025-09-30 13:07:24 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:24 | Starting Hybrid server for TLS 1.3 run 13/16
-2025-09-30 13:07:24 | Server ready detected
-2025-09-30 13:07:24 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:25 | Starting Hybrid server for TLS 1.3 run 14/16
-2025-09-30 13:07:25 | Server ready detected
-2025-09-30 13:07:25 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:26 | Starting Hybrid server for TLS 1.3 run 15/16
-2025-09-30 13:07:26 | Server ready detected
-2025-09-30 13:07:26 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:27 | Starting Hybrid server for TLS 1.3 run 16/16
-2025-09-30 13:07:27 | Server ready detected
-2025-09-30 13:07:27 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
-2025-09-30 13:07:29 | Starting Hybrid server for TLS 1.3 run 1/16
-2025-09-30 13:07:30 | Server ready detected
-2025-09-30 13:07:30 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:32 | Starting Hybrid server for TLS 1.3 run 2/16
-2025-09-30 13:07:33 | Server ready detected
-2025-09-30 13:07:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:36 | Starting Hybrid server for TLS 1.3 run 3/16
-2025-09-30 13:07:36 | Server ready detected
-2025-09-30 13:07:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:39 | Starting Hybrid server for TLS 1.3 run 4/16
-2025-09-30 13:07:39 | Server ready detected
-2025-09-30 13:07:39 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:42 | Starting Hybrid server for TLS 1.3 run 5/16
-2025-09-30 13:07:42 | Server ready detected
-2025-09-30 13:07:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:45 | Starting Hybrid server for TLS 1.3 run 6/16
-2025-09-30 13:07:45 | Server ready detected
-2025-09-30 13:07:45 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:48 | Starting Hybrid server for TLS 1.3 run 7/16
-2025-09-30 13:07:48 | Server ready detected
-2025-09-30 13:07:48 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:51 | Starting Hybrid server for TLS 1.3 run 8/16
-2025-09-30 13:07:51 | Server ready detected
-2025-09-30 13:07:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:54 | Starting Hybrid server for TLS 1.3 run 9/16
-2025-09-30 13:07:54 | Server ready detected
-2025-09-30 13:07:54 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:07:57 | Starting Hybrid server for TLS 1.3 run 10/16
-2025-09-30 13:07:57 | Server ready detected
-2025-09-30 13:07:57 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:08:00 | Starting Hybrid server for TLS 1.3 run 11/16
-2025-09-30 13:08:00 | Server ready detected
-2025-09-30 13:08:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:08:03 | Starting Hybrid server for TLS 1.3 run 12/16
-2025-09-30 13:08:03 | Server ready detected
-2025-09-30 13:08:03 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:08:06 | Starting Hybrid server for TLS 1.3 run 13/16
-2025-09-30 13:08:06 | Server ready detected
-2025-09-30 13:08:06 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:08:09 | Starting Hybrid server for TLS 1.3 run 14/16
-2025-09-30 13:08:09 | Server ready detected
-2025-09-30 13:08:09 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:08:12 | Starting Hybrid server for TLS 1.3 run 15/16
-2025-09-30 13:08:12 | Server ready detected
-2025-09-30 13:08:12 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
-2025-09-30 13:08:15 | Starting Hybrid server for TLS 1.3 run 16/16
-2025-09-30 13:08:15 | Server ready detected
-2025-09-30 13:08:15 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:15:33 | Starting Hybrid server for TLS 1.3 run 1/16
+2025-09-30 13:15:33 | Server ready detected
+2025-09-30 13:15:33 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:33 | Starting Hybrid server for TLS 1.3 run 2/16
+2025-09-30 13:15:34 | Server ready detected
+2025-09-30 13:15:34 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:34 | Starting Hybrid server for TLS 1.3 run 3/16
+2025-09-30 13:15:34 | Server ready detected
+2025-09-30 13:15:34 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:34 | Starting Hybrid server for TLS 1.3 run 4/16
+2025-09-30 13:15:34 | Server ready detected
+2025-09-30 13:15:34 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:34 | Starting Hybrid server for TLS 1.3 run 5/16
+2025-09-30 13:15:34 | Server ready detected
+2025-09-30 13:15:34 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:34 | Starting Hybrid server for TLS 1.3 run 6/16
+2025-09-30 13:15:34 | Server ready detected
+2025-09-30 13:15:34 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:35 | Starting Hybrid server for TLS 1.3 run 7/16
+2025-09-30 13:15:35 | Server ready detected
+2025-09-30 13:15:35 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:35 | Starting Hybrid server for TLS 1.3 run 8/16
+2025-09-30 13:15:35 | Server ready detected
+2025-09-30 13:15:35 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:35 | Starting Hybrid server for TLS 1.3 run 9/16
+2025-09-30 13:15:35 | Server ready detected
+2025-09-30 13:15:35 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:35 | Starting Hybrid server for TLS 1.3 run 10/16
+2025-09-30 13:15:35 | Server ready detected
+2025-09-30 13:15:35 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:36 | Starting Hybrid server for TLS 1.3 run 11/16
+2025-09-30 13:15:36 | Server ready detected
+2025-09-30 13:15:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:36 | Starting Hybrid server for TLS 1.3 run 12/16
+2025-09-30 13:15:36 | Server ready detected
+2025-09-30 13:15:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:36 | Starting Hybrid server for TLS 1.3 run 13/16
+2025-09-30 13:15:36 | Server ready detected
+2025-09-30 13:15:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:36 | Starting Hybrid server for TLS 1.3 run 14/16
+2025-09-30 13:15:36 | Server ready detected
+2025-09-30 13:15:36 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:37 | Starting Hybrid server for TLS 1.3 run 15/16
+2025-09-30 13:15:37 | Server ready detected
+2025-09-30 13:15:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:37 | Starting Hybrid server for TLS 1.3 run 16/16
+2025-09-30 13:15:37 | Server ready detected
+2025-09-30 13:15:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1024', '--hybrid']
+2025-09-30 13:15:39 | Starting Hybrid server for TLS 1.3 run 1/16
+2025-09-30 13:15:39 | Server ready detected
+2025-09-30 13:15:39 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:39 | Starting Hybrid server for TLS 1.3 run 2/16
+2025-09-30 13:15:39 | Server ready detected
+2025-09-30 13:15:39 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:40 | Starting Hybrid server for TLS 1.3 run 3/16
+2025-09-30 13:15:40 | Server ready detected
+2025-09-30 13:15:40 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:40 | Starting Hybrid server for TLS 1.3 run 4/16
+2025-09-30 13:15:40 | Server ready detected
+2025-09-30 13:15:40 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:40 | Starting Hybrid server for TLS 1.3 run 5/16
+2025-09-30 13:15:40 | Server ready detected
+2025-09-30 13:15:40 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:40 | Starting Hybrid server for TLS 1.3 run 6/16
+2025-09-30 13:15:40 | Server ready detected
+2025-09-30 13:15:40 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:40 | Starting Hybrid server for TLS 1.3 run 7/16
+2025-09-30 13:15:41 | Server ready detected
+2025-09-30 13:15:41 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:41 | Starting Hybrid server for TLS 1.3 run 8/16
+2025-09-30 13:15:41 | Server ready detected
+2025-09-30 13:15:41 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:41 | Starting Hybrid server for TLS 1.3 run 9/16
+2025-09-30 13:15:41 | Server ready detected
+2025-09-30 13:15:41 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:41 | Starting Hybrid server for TLS 1.3 run 10/16
+2025-09-30 13:15:41 | Server ready detected
+2025-09-30 13:15:41 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:41 | Starting Hybrid server for TLS 1.3 run 11/16
+2025-09-30 13:15:42 | Server ready detected
+2025-09-30 13:15:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:42 | Starting Hybrid server for TLS 1.3 run 12/16
+2025-09-30 13:15:42 | Server ready detected
+2025-09-30 13:15:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:42 | Starting Hybrid server for TLS 1.3 run 13/16
+2025-09-30 13:15:42 | Server ready detected
+2025-09-30 13:15:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:42 | Starting Hybrid server for TLS 1.3 run 14/16
+2025-09-30 13:15:42 | Server ready detected
+2025-09-30 13:15:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:42 | Starting Hybrid server for TLS 1.3 run 15/16
+2025-09-30 13:15:42 | Server ready detected
+2025-09-30 13:15:42 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:43 | Starting Hybrid server for TLS 1.3 run 16/16
+2025-09-30 13:15:43 | Server ready detected
+2025-09-30 13:15:43 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '102400', '--hybrid']
+2025-09-30 13:15:45 | Starting Hybrid server for TLS 1.3 run 1/16
+2025-09-30 13:15:45 | Server ready detected
+2025-09-30 13:15:45 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:45 | Starting Hybrid server for TLS 1.3 run 2/16
+2025-09-30 13:15:45 | Server ready detected
+2025-09-30 13:15:45 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:45 | Starting Hybrid server for TLS 1.3 run 3/16
+2025-09-30 13:15:46 | Server ready detected
+2025-09-30 13:15:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:46 | Starting Hybrid server for TLS 1.3 run 4/16
+2025-09-30 13:15:46 | Server ready detected
+2025-09-30 13:15:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:46 | Starting Hybrid server for TLS 1.3 run 5/16
+2025-09-30 13:15:46 | Server ready detected
+2025-09-30 13:15:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:46 | Starting Hybrid server for TLS 1.3 run 6/16
+2025-09-30 13:15:46 | Server ready detected
+2025-09-30 13:15:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:46 | Starting Hybrid server for TLS 1.3 run 7/16
+2025-09-30 13:15:46 | Server ready detected
+2025-09-30 13:15:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:47 | Starting Hybrid server for TLS 1.3 run 8/16
+2025-09-30 13:15:47 | Server ready detected
+2025-09-30 13:15:47 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:47 | Starting Hybrid server for TLS 1.3 run 9/16
+2025-09-30 13:15:47 | Server ready detected
+2025-09-30 13:15:47 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:47 | Starting Hybrid server for TLS 1.3 run 10/16
+2025-09-30 13:15:47 | Server ready detected
+2025-09-30 13:15:47 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:47 | Starting Hybrid server for TLS 1.3 run 11/16
+2025-09-30 13:15:47 | Server ready detected
+2025-09-30 13:15:47 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:48 | Starting Hybrid server for TLS 1.3 run 12/16
+2025-09-30 13:15:48 | Server ready detected
+2025-09-30 13:15:48 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:48 | Starting Hybrid server for TLS 1.3 run 13/16
+2025-09-30 13:15:48 | Server ready detected
+2025-09-30 13:15:48 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:48 | Starting Hybrid server for TLS 1.3 run 14/16
+2025-09-30 13:15:48 | Server ready detected
+2025-09-30 13:15:48 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:48 | Starting Hybrid server for TLS 1.3 run 15/16
+2025-09-30 13:15:48 | Server ready detected
+2025-09-30 13:15:48 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:49 | Starting Hybrid server for TLS 1.3 run 16/16
+2025-09-30 13:15:49 | Server ready detected
+2025-09-30 13:15:49 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '1048576', '--hybrid']
+2025-09-30 13:15:51 | Starting Hybrid server for TLS 1.3 run 1/16
+2025-09-30 13:15:51 | Server ready detected
+2025-09-30 13:15:51 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:52 | Starting Hybrid server for TLS 1.3 run 2/16
+2025-09-30 13:15:52 | Server ready detected
+2025-09-30 13:15:52 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:52 | Starting Hybrid server for TLS 1.3 run 3/16
+2025-09-30 13:15:52 | Server ready detected
+2025-09-30 13:15:52 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:53 | Starting Hybrid server for TLS 1.3 run 4/16
+2025-09-30 13:15:53 | Server ready detected
+2025-09-30 13:15:53 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:54 | Starting Hybrid server for TLS 1.3 run 5/16
+2025-09-30 13:15:54 | Server ready detected
+2025-09-30 13:15:54 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:55 | Starting Hybrid server for TLS 1.3 run 6/16
+2025-09-30 13:15:55 | Server ready detected
+2025-09-30 13:15:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:55 | Starting Hybrid server for TLS 1.3 run 7/16
+2025-09-30 13:15:55 | Server ready detected
+2025-09-30 13:15:55 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:56 | Starting Hybrid server for TLS 1.3 run 8/16
+2025-09-30 13:15:56 | Server ready detected
+2025-09-30 13:15:56 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:57 | Starting Hybrid server for TLS 1.3 run 9/16
+2025-09-30 13:15:57 | Server ready detected
+2025-09-30 13:15:57 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:58 | Starting Hybrid server for TLS 1.3 run 10/16
+2025-09-30 13:15:58 | Server ready detected
+2025-09-30 13:15:58 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:58 | Starting Hybrid server for TLS 1.3 run 11/16
+2025-09-30 13:15:58 | Server ready detected
+2025-09-30 13:15:58 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:15:59 | Starting Hybrid server for TLS 1.3 run 12/16
+2025-09-30 13:15:59 | Server ready detected
+2025-09-30 13:15:59 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:16:00 | Starting Hybrid server for TLS 1.3 run 13/16
+2025-09-30 13:16:00 | Server ready detected
+2025-09-30 13:16:00 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:16:00 | Starting Hybrid server for TLS 1.3 run 14/16
+2025-09-30 13:16:01 | Server ready detected
+2025-09-30 13:16:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:16:01 | Starting Hybrid server for TLS 1.3 run 15/16
+2025-09-30 13:16:01 | Server ready detected
+2025-09-30 13:16:01 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:16:02 | Starting Hybrid server for TLS 1.3 run 16/16
+2025-09-30 13:16:02 | Server ready detected
+2025-09-30 13:16:02 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '104857600', '--hybrid']
+2025-09-30 13:16:05 | Starting Hybrid server for TLS 1.3 run 1/16
+2025-09-30 13:16:05 | Server ready detected
+2025-09-30 13:16:05 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:08 | Starting Hybrid server for TLS 1.3 run 2/16
+2025-09-30 13:16:08 | Server ready detected
+2025-09-30 13:16:08 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:11 | Starting Hybrid server for TLS 1.3 run 3/16
+2025-09-30 13:16:11 | Server ready detected
+2025-09-30 13:16:11 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:14 | Starting Hybrid server for TLS 1.3 run 4/16
+2025-09-30 13:16:14 | Server ready detected
+2025-09-30 13:16:14 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:17 | Starting Hybrid server for TLS 1.3 run 5/16
+2025-09-30 13:16:17 | Server ready detected
+2025-09-30 13:16:17 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:20 | Starting Hybrid server for TLS 1.3 run 6/16
+2025-09-30 13:16:20 | Server ready detected
+2025-09-30 13:16:20 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:22 | Starting Hybrid server for TLS 1.3 run 7/16
+2025-09-30 13:16:23 | Server ready detected
+2025-09-30 13:16:23 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:25 | Starting Hybrid server for TLS 1.3 run 8/16
+2025-09-30 13:16:26 | Server ready detected
+2025-09-30 13:16:26 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:28 | Starting Hybrid server for TLS 1.3 run 9/16
+2025-09-30 13:16:28 | Server ready detected
+2025-09-30 13:16:28 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:31 | Starting Hybrid server for TLS 1.3 run 10/16
+2025-09-30 13:16:31 | Server ready detected
+2025-09-30 13:16:31 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:34 | Starting Hybrid server for TLS 1.3 run 11/16
+2025-09-30 13:16:34 | Server ready detected
+2025-09-30 13:16:34 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:37 | Starting Hybrid server for TLS 1.3 run 12/16
+2025-09-30 13:16:37 | Server ready detected
+2025-09-30 13:16:37 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:40 | Starting Hybrid server for TLS 1.3 run 13/16
+2025-09-30 13:16:40 | Server ready detected
+2025-09-30 13:16:40 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:43 | Starting Hybrid server for TLS 1.3 run 14/16
+2025-09-30 13:16:43 | Server ready detected
+2025-09-30 13:16:43 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:46 | Starting Hybrid server for TLS 1.3 run 15/16
+2025-09-30 13:16:46 | Server ready detected
+2025-09-30 13:16:46 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']
+2025-09-30 13:16:49 | Starting Hybrid server for TLS 1.3 run 16/16
+2025-09-30 13:16:49 | Server ready detected
+2025-09-30 13:16:49 | Running client: ['C:\\Program Files\\Python312\\python.exe', 'alice.py', '--host', '127.0.0.1', '--port', '44330', '--tls', '1.3', '--ciphers', 'AESGCM:CHACHA20:AES256:AES128', '--cafile', 'server_cert.pem', '--bytes', '524288000', '--hybrid']

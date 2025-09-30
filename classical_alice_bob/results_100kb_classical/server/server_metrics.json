@@ -7,7 +7,7 @@
   "key_file": "server_key.pem",
   "cert_size_bytes": 1134,
   "key_size_bytes": 1732,
-  "handshake_time_ms": 8.730100002139807,
+  "handshake_time_ms": 7.886299979873002,
   "negotiated_tls_version": "TLSv1.3",
   "negotiated_cipher": [
     "TLS_AES_256_GCM_SHA384",
@@ -16,18 +16,18 @@
   ],
   "bytes_received": 102400,
   "per_recv_call_time_ms": [
-    0.10850001126527786,
-    0.028099981136620045,
-    0.020300038158893585,
-    0.017900019884109497,
-    0.02050003968179226,
-    0.014899997040629387,
-    0.009499955922365189
+    0.08949998300522566,
+    0.02729997504502535,
+    0.02080004196614027,
+    0.015300000086426735,
+    0.018700025975704193,
+    0.02829998265951872,
+    0.008499948307871819
   ],
-  "decrypt_time_ms": 0.278000021353364,
+  "decrypt_time_ms": 0.2623000182211399,
   "bytes_sent": 102400,
-  "encrypt_time_ms": 0.17499993555247784,
-  "transfer_duration_ms": 0.457499991171062,
-  "throughput_bytes_per_sec": 223825140.93144983,
+  "encrypt_time_ms": 0.1365999924018979,
+  "transfer_duration_ms": 0.40280004031956196,
+  "throughput_bytes_per_sec": 254220431.35537133,
   "success": true
 }

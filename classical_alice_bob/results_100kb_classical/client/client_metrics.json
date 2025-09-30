@@ -5,20 +5,20 @@
   "ciphers_requested": "AESGCM:CHACHA20:AES256:AES128",
   "ca_file": "server_cert.pem",
   "payload_bytes": 102400,
-  "tcp_connect_time_ms": 0.6430000066757202,
-  "handshake_time_ms": 5.396199994720519,
+  "tcp_connect_time_ms": 0.6447000196203589,
+  "handshake_time_ms": 4.6397000551223755,
   "negotiated_tls_version": "TLSv1.3",
   "negotiated_cipher": [
     "TLS_AES_256_GCM_SHA384",
     "TLSv1.3",
     256
   ],
-  "ping_rtt_ms": 0.4342000465840101,
+  "ping_rtt_ms": 0.3029999788850546,
   "bytes_sent": 102400,
-  "encrypt_time_ms": 0.18900004215538502,
+  "encrypt_time_ms": 0.206099939532578,
   "bytes_received": 102400,
-  "decrypt_time_ms": 0.24399999529123306,
-  "end_to_end_transfer_time_ms": 0.4341000458225608,
-  "throughput_bytes_per_sec": 235890322.94609845,
+  "decrypt_time_ms": 0.1970999874174595,
+  "end_to_end_transfer_time_ms": 0.40419993456453085,
+  "throughput_bytes_per_sec": 253339971.74027684,
   "success": true
 }
