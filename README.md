@@ -22,14 +22,15 @@ qcomm_benchmark/
 │   ├── bob.py                    # TLS server
 │   ├── benchmark.py              # Benchmarking suite
 │   |__ logs/                     # Performance metrics and logs
-|   |__ results_*/               # Performacne metrics for tests of different file sizes
+|   |__ results_*/                # Performacne metrics for tests of different file sizes
 |
 ├── hybrid_qu_alice_bob/          # Post-quantum hybrid implementation
 │   ├── alice.py                  # Hybrid TLS client
 │   ├── bob.py                    # Hybrid TLS server
 │   ├── benchmark.py              # Hybrid benchmarking orchestrator
 │   ├── hybrid_tls_real_pqc.py    # Post-quantum hybrid protocol
-│   └── logs/                     # Hybrid performance metrics
+│   |__ logs/                     # Hybrid performance metrics
+|   |__ results_*/                # Performacne metrics for tests of different file sizes
 |
 ├── single_proc_crypto_overhead/  # Isolated pq cryptographic algorithm microbenchmarks
 |   ├── app.py                    # Single-process benchmark runner
