@@ -1,9 +1,38 @@
-plots/server/*
-plots/client/*
-__pycache__*
-instance/
-.env
-.venv*
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+
+# Editor and operating-system files
+.idea/
 .vscode/
 .DS_Store
-*.pem
+Desktop.ini
+Thumbs.db
+
+# Local environments and build products
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Generated research and runtime artifacts
+artifacts/
+credentials/
+results/
+*.log
+*.prof
+*.pstats
+*.tmp
+*.temp
+*-ready.json
+*-result.json
