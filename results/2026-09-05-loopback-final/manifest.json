@@ -1,0 +1,128 @@
+{
+  "benchmark": {
+    "mode_labels": {
+      "baseline": "Classical TLS",
+      "hybrid": "TLS + PQC bridge",
+      "native": "Native hybrid TLS"
+    },
+    "modes": [
+      "baseline",
+      "native",
+      "hybrid"
+    ],
+    "network": "TCP over IPv4 loopback; no network emulation",
+    "paired_mode_comparisons": [
+      [
+        "baseline",
+        "native"
+      ],
+      [
+        "baseline",
+        "hybrid"
+      ],
+      [
+        "native",
+        "hybrid"
+      ]
+    ],
+    "payload_sizes_bytes": [
+      1024,
+      102400,
+      1048576,
+      104857600,
+      524288000,
+      1073741824
+    ],
+    "randomization_seed": 12648430,
+    "runs_per_condition": 16,
+    "server_name": "localhost",
+    "timeout_seconds": 600.0,
+    "tls_group_by_mode": {
+      "baseline": "X25519",
+      "hybrid": "X25519",
+      "native": "X25519MLKEM768"
+    },
+    "warmups_per_mode": 2
+  },
+  "created_utc": "2026-09-05T08:47:05.150993+00:00",
+  "credentials": {
+    "ca_certificate_sha256": "8f9c82545dd428b2981c766d78939646091ed9b679b3e365d1708235d4415d06",
+    "mldsa_public_key_sha256": "2896f5d7e316724fc2fe5029ec48acbf0a065749fdff0c809b72d6f6f2af7e3d",
+    "server_certificate_sha256": "b1e9a58cdee6e895db27cdb56f0511445604d570d38122af6c9bd6d21d3239ef"
+  },
+  "environment": {
+    "logical_cpu_count": 16,
+    "machine": "AMD64",
+    "operating_system": "Windows-11-10.0.26200-SP0",
+    "packages": {
+      "Pygments": "2.21.0",
+      "attrs": "26.1.0",
+      "cffi": "2.1.1",
+      "colorama": "0.4.6",
+      "contourpy": "1.3.3",
+      "cryptography": "50.0.1",
+      "cycler": "0.12.1",
+      "fonttools": "4.64.0",
+      "idna": "3.19",
+      "iniconfig": "2.3.0",
+      "kiwisolver": "1.5.1",
+      "matplotlib": "3.10.3",
+      "numpy": "2.4.6",
+      "packaging": "26.3",
+      "pillow": "12.3.0",
+      "pip": "26.2.1",
+      "pluggy": "1.6.0",
+      "pqcrypto": "0.3.4",
+      "pyOpenSSL": "26.4.0",
+      "pyasn1": "0.6.4",
+      "pyasn1_modules": "0.4.2",
+      "pycparser": "3.0",
+      "pyparsing": "3.2.3",
+      "pytest": "9.0.3",
+      "python-dateutil": "2.9.0.post0",
+      "ruff": "0.11.0",
+      "scipy": "1.15.2",
+      "service-identity": "24.2.0",
+      "six": "1.17.0",
+      "typing_extensions": "4.16.0"
+    },
+    "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD",
+    "pyopenssl_ssl": "OpenSSL 4.0.2 25 Aug 2026",
+    "python": "3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)]",
+    "python_ssl": "OpenSSL 3.0.13 30 Jan 2024"
+  },
+  "repository": {
+    "commit": "724d6978351c6fe940f19a4cc6793f0559bc21ab",
+    "dirty": true,
+    "source_files_sha256": {
+      "alice.py": "11db06142ba433e1e0b0a668947701f12b8464ce0841693f3a5ac51a65939090",
+      "benchmark.py": "88be4caa785a3097dfc2c8b909190702caf58fd03deed65730a2f79a1690f2a0",
+      "bob.py": "38162ddaa4dfc8281313a844e8234a546582b30d4d017c2eeb6b770dc081cf18",
+      "plot.py": "a37d929b870205238456274a71592a435d4c172267f300b9a5724b0ca54af1a5",
+      "requirements.txt": "d249bf22d309dabaaf147065e72142dce1da2515f69371a15bd5e1a21de29379",
+      "tls_pqc_bridge/__init__.py": "366d934d935f4886897f9e2ee7d7cc33bdf934dbad6304046b2fdb665f40b0ae",
+      "tls_pqc_bridge/channel.py": "dddd8f867d3aa06b5c5785d4c56734859b799523fb3f0a1e88be8ff4d1222191",
+      "tls_pqc_bridge/endpoint.py": "bfacb315e15afdf55d54903f7aa43888acbcfe0c96f9f2e72ffee81394f79eee",
+      "tls_pqc_bridge/errors.py": "80b0921279bb37e6029151f3695fc4fc0bf1f088be046e82b79069b9cd0c8f17",
+      "tls_pqc_bridge/files.py": "be451842c187da31fa92dd180add90961e349945b656975abff00d3a0979726f",
+      "tls_pqc_bridge/framing.py": "24244059b1d1eee1c212ffa2c203fe9a22d046081e56eab21620dcc51aa80961",
+      "tls_pqc_bridge/hybrid.py": "bcb3ad382dd58c670cff01e38121662112b7ba36babc50585769d394a8aa9c0a",
+      "tls_pqc_bridge/identity.py": "3bc4393c5ba25ee0642a0c82050264bca9c948524d4dee95ac7fec9838c88548",
+      "tls_pqc_bridge/protocol.py": "209828de9f8c88b1d09183f6952d47f365e09a7bc60b36b83e7408659b5910b3",
+      "tls_pqc_bridge/tls.py": "c4966ce077af32448979c283856d7f999eb2e757f30d1e43770e34430de5c1af",
+      "tls_pqc_bridge/transfer.py": "f527941d57b924642fe315946592e4e96001d4c2e4374042dbe4e4d6a7e3aeee"
+    },
+    "source_tree_sha256": "854d08eea619ba5dc5cf8df2af1ca388f862a40df00435f6762762087c614b71"
+  },
+  "rendering": {
+    "derived_csv_tables": 2,
+    "figure_pairs": 19,
+    "plot_source_sha256": "275216f06885c7508fa7532e09312e30130d1c8f9ae68f2524b492351ade29be",
+    "source_tree_sha256": "726cc8b2e63b5d526de81c415e59fa8b3f45d4f4865d83727d3f030eee2ba0e4",
+    "measurement_data_unchanged": true,
+    "post_measurement_changes": [
+      "paired-effect legend placement",
+      "PQC exchange and bridge-protected-record public terminology"
+    ]
+  }
+}

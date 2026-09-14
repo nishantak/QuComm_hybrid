@@ -28,7 +28,6 @@ dist/
 # Generated research and runtime artifacts
 artifacts/
 credentials/
-results/
 *.log
 *.prof
 *.pstats
